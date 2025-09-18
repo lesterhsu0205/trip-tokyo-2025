@@ -27,15 +27,15 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 重要資訊參考
 
-- 成員為 3x 夫妻及 1 歲幼兒和 5 歲兒童
+- 成員為 3x 歲夫妻及 1 歲幼兒和 5 歲兒童
 - 適合 1 歲幼兒及 5 歲兒童的自由行安排
-- 去程班機時間為長榮航空 BR184 10/6 07:55 (TPE 2 航廈) ~ 12:25 (NRT 1 航廈)
-- 回程班機時間為長榮航空 BR195 10/13 20:40 (NRT 1 航廈) ~ 23:20 (TPE 2 航廈)
+- 去程班機時間為長榮航空 BR184 10/6 07:55 (TPE terminal 2) ~ 12:25 (NRT terminal 1)
+- 回程班機時間為長榮航空 BR195 10/13 20:40 (NRT terminal 1) ~ 23:20 (TPE terminal 2)
 - 交通方式以大眾交通為主，搭配 iphone 西瓜卡
 - 每日行程（D1-D8）撰寫時需含具體時間和地點詳情
-- 檢查各行程停留時間如不合理請調整
+- 檢查各行程停留時間如不合理請調整，各景點順序應由近而遠不合理也請調整
 - 通勤時間需考慮進行程安排，並且不要抓太緊，多留個 10 min buffer
-- 行程需提供建議交通路線與通勤時間，包含轉乘站以及地鐵線名或新幹線名，以少行走為原則，請優先參考 <https://world.jorudan.co.jp/mln/zh-tw/>
+- 行程需提供建議交通路線與通勤時間，包含轉乘站以及地鐵線名或新幹線名，以少行走為原則，請優先參考 [東京地鐵](https://world.jorudan.co.jp/mln/zh-tw/), [京成電鐵](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php>), [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
 - 地鐵需盡量避開 07:30 ~ 09:30 及 18:00 ~ 20:00 上下班時段
 - 10/06 下機會搭乘京成電鐵 access express / skyliner 至青砥，再轉乘至四木站
 - 10/09 台場購物結束會去上野站寄放大件行李
