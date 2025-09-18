@@ -35,7 +35,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - 每日行程（D1-D8）撰寫時需含具體時間和地點詳情
 - 檢查各行程停留時間如不合理請調整
 - 通勤時間需考慮進行程安排，並且不要抓太緊，多留個 10 min buffer
-- 行程需提供建議交通路線與通勤時間，包含轉乘站以及地鐵線名或新幹線名，以少行走為原則，請優先參考 https://world.jorudan.co.jp/mln/zh-tw/
+- 行程需提供建議交通路線與通勤時間，包含轉乘站以及地鐵線名或新幹線名，以少行走為原則，請優先參考 <https://world.jorudan.co.jp/mln/zh-tw/>
 - 地鐵需盡量避開 07:30 ~ 09:30 及 18:00 ~ 20:00 上下班時段
 - 10/06 下機會搭乘京成電鐵 access express / skyliner 至青砥，再轉乘至四木站
 - 10/09 台場購物結束會去上野站寄放大件行李
