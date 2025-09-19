@@ -31,23 +31,41 @@ jobs:
         PROJECTS=()
         
         for file in $CHANGED_FILES; do
-          # 檢查是否為行程相關檔案
-          if [[ $file =~ ^[0-9]+/[^/]+/(D[0-9]+\.md|todo\.md|.*行程總覽.*\.md)$ ]]; then
+          echo "Checking file: $file"
+          # 檢查是否為行程相關檔案 (放寬條件)
+          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ 行程總覽.*\.md$ ]]; then
             # 提取專案路徑 (例如: 2025/tokyo)
             PROJECT_DIR=$(dirname "$file")
+            echo "Found itinerary file in: $PROJECT_DIR"
             
             # 檢查專案目錄是否存在主行程檔案
             if ls "$PROJECT_DIR"/*行程總覽*.md 1> /dev/null 2>&1; then
+              echo "Found main itinerary file in $PROJECT_DIR"
               # 避免重複添加
               if [[ ! " ${PROJECTS[@]} " =~ " ${PROJECT_DIR} " ]]; then
                 PROJECTS+=("$PROJECT_DIR")
+                echo "Added project: $PROJECT_DIR"
               fi
+            else
+              echo "No main itinerary file found in $PROJECT_DIR"
             fi
           fi
         done
         
-        # 輸出為 JSON 陣列
-        printf -v PROJECTS_JSON '%s\n' "${PROJECTS[@]}" | jq -R . | jq -s .
+        # 簡單的 JSON 陣列建構 (避免依賴 jq)
+        if [ ${#PROJECTS[@]} -eq 0 ]; then
+          PROJECTS_JSON="[]"
+        else
+          PROJECTS_JSON="["
+          for i in "${!PROJECTS[@]}"; do
+            if [ $i -gt 0 ]; then
+              PROJECTS_JSON+=","
+            fi
+            PROJECTS_JSON+="\"${PROJECTS[i]}\""
+          done
+          PROJECTS_JSON+="]"
+        fi
+        
         echo "projects=$PROJECTS_JSON" >> $GITHUB_OUTPUT
         echo "Detected projects: $PROJECTS_JSON"
 
