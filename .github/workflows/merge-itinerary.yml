@@ -5,8 +5,7 @@ on:
     paths:
       - '**/D*.md'
       - '**/todo.md'
-      - '**/行程總覽.md'
-      - '**/*行程總覽*.md'
+      - '**/README.md'
   workflow_dispatch:
 
 permissions:
@@ -37,13 +36,13 @@ jobs:
         for file in $CHANGED_FILES; do
           echo "Checking file: $file"
           # 檢查是否為行程相關檔案 (放寬條件)
-          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ 行程總覽.*\.md$ ]]; then
+          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ README.*\.md$ ]]; then
             # 提取專案路徑 (例如: 2025/tokyo)
             PROJECT_DIR=$(dirname "$file")
             echo "Found itinerary file in: $PROJECT_DIR"
             
             # 檢查專案目錄是否存在主行程檔案
-            if ls "$PROJECT_DIR"/*行程總覽*.md 1> /dev/null 2>&1; then
+            if ls "$PROJECT_DIR"/README.md 1> /dev/null 2>&1; then
               echo "Found main itinerary file in $PROJECT_DIR"
               # 避免重複添加
               if [[ ! " ${PROJECTS[@]} " =~ " ${PROJECT_DIR} " ]]; then
@@ -99,7 +98,7 @@ jobs:
         cd "${{ matrix.project }}"
         
         # 尋找主行程檔案
-        MAIN_FILE=$(ls *行程總覽*.md | head -n1)
+        MAIN_FILE="README.md"
         echo "Main file: $MAIN_FILE"
         
         # 備份原始檔案
@@ -154,7 +153,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add "${{ matrix.project }}"/*行程總覽*.md
+        git add "${{ matrix.project }}"/README.md
         git diff --staged --quiet || git commit -m "🤖 自動合併 ${{ matrix.project }} 行程檔案
 
         🔄 Generated with [Claude Code](https://claude.ai/code)

@@ -21,9 +21,8 @@ trip/
 ├── .github/workflows/           # GitHub Actions 自動化腳本
 └── 2025/
     └── tokyo/
-        ├── README.md            # 東京輕井澤專案說明
+        ├── README.md            # 自動合併的完整行程
         ├── CLAUDE.md            # 東京輕井澤專案專屬指引
-        ├── 東京輕井澤行程總覽.md  # 自動合併的完整行程
         ├── todo.md              # 行前 TODO 清單
         ├── D1.md                # 各日詳細行程
         ├── D2.md
