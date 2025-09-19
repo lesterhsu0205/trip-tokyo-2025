@@ -116,7 +116,7 @@ jobs:
           /^---$/d;
           /^## 🔄 最後更新時間$/,/^---$/{
             /^## 🔄 最後更新時間$/d;
-            /^🔄 \*\*更新中/d;
+            /^🔥 \*\*更新中/d;
             /^$/d;
             d;
           }
@@ -126,7 +126,7 @@ jobs:
         # 添加最後更新時間區塊
         echo "## 🔄 最後更新時間" >> temp_merged.md
         echo "" >> temp_merged.md
-        echo "$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)')" >> temp_merged.md
+        echo "✅ $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)')" >> temp_merged.md
         echo "" >> temp_merged.md
         echo "---" >> temp_merged.md
         

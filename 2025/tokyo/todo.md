@@ -2,6 +2,7 @@
 
 ### 交通相關
 
+- [ ] 台北桃園機場來回包車預訂
 - [ ] 設定 iPhone/Apple Watch Suica 卡
 - [ ] 預訂北陸新幹線車票 (10/13 輕井澤 → 上野)
 - [ ] 確認京成電鐵 Access Express / Skyliner 時刻表
