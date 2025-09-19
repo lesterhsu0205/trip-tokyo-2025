@@ -1,0 +1,156 @@
+name: 自動合併行程檔案
+
+on:
+  push:
+    paths:
+      - '**/D*.md'
+      - '**/todo.md'
+      - '**/行程總覽.md'
+      - '**/*行程總覽*.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+jobs:
+  detect-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      projects: ${{ steps.detect.outputs.projects }}
+    steps:
+    - name: Checkout 程式碼
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 2
+
+    - name: 偵測變更的專案
+      id: detect
+      run: |
+        # 取得變更的檔案列表
+        CHANGED_FILES=$(git diff --name-only HEAD^ HEAD)
+        echo "Changed files: $CHANGED_FILES"
+        
+        # 偵測哪些專案目錄有變更
+        PROJECTS=()
+        
+        for file in $CHANGED_FILES; do
+          echo "Checking file: $file"
+          # 檢查是否為行程相關檔案 (放寬條件)
+          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ 行程總覽.*\.md$ ]]; then
+            # 提取專案路徑 (例如: 2025/tokyo)
+            PROJECT_DIR=$(dirname "$file")
+            echo "Found itinerary file in: $PROJECT_DIR"
+            
+            # 檢查專案目錄是否存在主行程檔案
+            if ls "$PROJECT_DIR"/*行程總覽*.md 1> /dev/null 2>&1; then
+              echo "Found main itinerary file in $PROJECT_DIR"
+              # 避免重複添加
+              if [[ ! " ${PROJECTS[@]} " =~ " ${PROJECT_DIR} " ]]; then
+                PROJECTS+=("$PROJECT_DIR")
+                echo "Added project: $PROJECT_DIR"
+              fi
+            else
+              echo "No main itinerary file found in $PROJECT_DIR"
+            fi
+          fi
+        done
+        
+        # 簡單的 JSON 陣列建構 (避免依賴 jq)
+        if [ ${#PROJECTS[@]} -eq 0 ]; then
+          PROJECTS_JSON="[]"
+          echo "No projects detected"
+        else
+          PROJECTS_JSON="["
+          for i in "${!PROJECTS[@]}"; do
+            if [ $i -gt 0 ]; then
+              PROJECTS_JSON+=","
+            fi
+            PROJECTS_JSON+="\"${PROJECTS[i]}\""
+          done
+          PROJECTS_JSON+="]"
+          echo "Projects detected: ${#PROJECTS[@]}"
+        fi
+        
+        # 確保總是輸出有效的 JSON
+        if [ -z "$PROJECTS_JSON" ]; then
+          PROJECTS_JSON="[]"
+        fi
+        
+        echo "projects=$PROJECTS_JSON" >> $GITHUB_OUTPUT
+        echo "Final output: $PROJECTS_JSON"
+
+  merge-files:
+    needs: detect-changes
+    if: needs.detect-changes.outputs.projects != '[]' && needs.detect-changes.outputs.projects != ''
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        project: ${{ fromJson(needs.detect-changes.outputs.projects || '[]') }}
+    
+    steps:
+    - name: Checkout 程式碼
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: 合併 ${{ matrix.project }} 行程檔案
+      run: |
+        cd "${{ matrix.project }}"
+        
+        # 尋找主行程檔案
+        MAIN_FILE=$(ls *行程總覽*.md | head -n1)
+        echo "Main file: $MAIN_FILE"
+        
+        # 備份原始檔案
+        cp "$MAIN_FILE" "${MAIN_FILE}.backup"
+        
+        # 讀取原檔案的標題和目錄部分
+        TITLE=$(head -n1 "$MAIN_FILE")
+        
+        # 建立新的合併檔案開頭
+        echo "$TITLE" > temp_merged.md
+        echo "" >> temp_merged.md
+        
+        # 提取並保留目錄部分（到第一個 --- 為止）
+        sed -n '2,/^---$/p' "$MAIN_FILE" >> temp_merged.md
+        
+        # 添加自動生成註釋
+        echo "<!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->" >> temp_merged.md
+        echo "<!-- 最後更新時間: $(date '+%Y-%m-%d %H:%M:%S UTC') -->" >> temp_merged.md
+        echo "" >> temp_merged.md
+        
+        # 合併所有 D*.md 檔案
+        for day_file in D*.md; do
+          if [ -f "$day_file" ]; then
+            echo "" >> temp_merged.md
+            cat "$day_file" >> temp_merged.md
+            echo "" >> temp_merged.md
+          fi
+        done
+        
+        # 添加 TODO 清單（如果存在）
+        if [ -f "todo.md" ]; then
+          echo "" >> temp_merged.md
+          echo "---" >> temp_merged.md
+          echo "" >> temp_merged.md
+          cat todo.md >> temp_merged.md
+        fi
+        
+        # 替換原檔案
+        mv temp_merged.md "$MAIN_FILE"
+        
+        # 清理備份檔案
+        rm "${MAIN_FILE}.backup"
+
+    - name: 提交變更
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add "${{ matrix.project }}"/*行程總覽*.md
+        git diff --staged --quiet || git commit -m "🤖 自動合併 ${{ matrix.project }} 行程檔案
+
+        🔄 Generated with [Claude Code](https://claude.ai/code)
+
+        Co-Authored-By: Claude <noreply@anthropic.com>"
+        git push
