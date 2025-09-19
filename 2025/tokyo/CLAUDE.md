@@ -40,12 +40,12 @@
      - 地鐵需盡量避開 07:30 ~ 09:30 及 18:00 ~ 20:00 上下班時段
    - 各行程中間通勤時間需考慮進行程安排，並且不要抓太緊，多留個 10 min buffer
    - 通勤安排需提供建議交通路線與通勤時間，包含轉乘站以及地鐵線名或新幹線名等資訊，並附上 google map 路線導航連結
-     a. 規劃以**最短步行時間**為原則
-     b. google map 路線導航連結的 condition 如下
+     - 規劃以**最短步行時間**為原則
+     - google map 路線導航連結的 condition 如下
         - 交通方式 : 大眾交通
         - 出方時間 : 該時程當時段
         - 路線偏好 : 步行時間較短
-     c. 通勤安排請優先參考以下官方票價時程表資訊
+     - 通勤安排請優先參考以下官方票價時程表資訊
         -[東京地鐵](https://world.jorudan.co.jp/mln/zh-tw/)
         -[京成電鐵](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php>)
         -[北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
