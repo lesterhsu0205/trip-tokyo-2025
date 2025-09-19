@@ -55,6 +55,7 @@ jobs:
         # 簡單的 JSON 陣列建構 (避免依賴 jq)
         if [ ${#PROJECTS[@]} -eq 0 ]; then
           PROJECTS_JSON="[]"
+          echo "No projects detected"
         else
           PROJECTS_JSON="["
           for i in "${!PROJECTS[@]}"; do
@@ -64,18 +65,24 @@ jobs:
             PROJECTS_JSON+="\"${PROJECTS[i]}\""
           done
           PROJECTS_JSON+="]"
+          echo "Projects detected: ${#PROJECTS[@]}"
+        fi
+        
+        # 確保總是輸出有效的 JSON
+        if [ -z "$PROJECTS_JSON" ]; then
+          PROJECTS_JSON="[]"
         fi
         
         echo "projects=$PROJECTS_JSON" >> $GITHUB_OUTPUT
-        echo "Detected projects: $PROJECTS_JSON"
+        echo "Final output: $PROJECTS_JSON"
 
   merge-files:
     needs: detect-changes
-    if: needs.detect-changes.outputs.projects != '[]'
+    if: needs.detect-changes.outputs.projects != '[]' && needs.detect-changes.outputs.projects != ''
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        project: ${{ fromJson(needs.detect-changes.outputs.projects) }}
+        project: ${{ fromJson(needs.detect-changes.outputs.projects || '[]') }}
     
     steps:
     - name: Checkout 程式碼
