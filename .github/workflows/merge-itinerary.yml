@@ -79,7 +79,7 @@ jobs:
         echo "projects=$PROJECTS_JSON" >> $GITHUB_OUTPUT
         echo "Final output: $PROJECTS_JSON"
 
-  set-updating-status:
+  merge-files:
     needs: detect-changes
     if: needs.detect-changes.outputs.projects != '[]' && needs.detect-changes.outputs.projects != ''
     runs-on: ubuntu-latest
@@ -93,97 +93,6 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
 
-    - name: 設置 ${{ matrix.project }} 更新中狀態
-      run: |
-        cd "${{ matrix.project }}"
-        
-        # 尋找主行程檔案
-        MAIN_FILE="README.md"
-        echo "Main file: $MAIN_FILE"
-        
-        # 創建原始檔案備份（只在第一次時）
-        if [ ! -f "${MAIN_FILE}.original" ]; then
-          # 提取目錄部分（到第一個含有行程內容的 --- 為止）
-          awk '
-            BEGIN { in_toc = 1; found_divider = 0 }
-            /^---$/ && in_toc { 
-              found_divider++; 
-              if(found_divider >= 2) in_toc = 0; 
-              next 
-            }
-            in_toc && !/^## 🔄 最後更新時間$/ && !/^🔄 \*\*更新中/ && !/^✅ \*\*[0-9]/ { print }
-          ' "$MAIN_FILE" > "${MAIN_FILE}.original"
-        fi
-        
-        # 讀取標題和目錄部分
-        TITLE=$(head -n1 "${MAIN_FILE}.original")
-        
-        # 建立新的合併檔案
-        echo "$TITLE" > temp_merged.md
-        echo "" >> temp_merged.md
-        
-        # 添加目錄部分（跳過第一行標題）
-        tail -n +2 "${MAIN_FILE}.original" >> temp_merged.md
-        
-        # 添加更新中狀態區塊
-        echo "## 🔄 最後更新時間" >> temp_merged.md
-        echo "" >> temp_merged.md
-        echo "🔄 **更新中，請持續重新整理**" >> temp_merged.md
-        echo "" >> temp_merged.md
-        echo "---" >> temp_merged.md
-        
-        # 添加自動生成註釋
-        echo "<!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->" >> temp_merged.md
-        echo "<!-- 合併開始時間: $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)') -->" >> temp_merged.md
-        echo "" >> temp_merged.md
-        
-        # 合併所有 D*.md 檔案
-        for day_file in D*.md; do
-          if [ -f "$day_file" ]; then
-            echo "" >> temp_merged.md
-            cat "$day_file" >> temp_merged.md
-            echo "" >> temp_merged.md
-          fi
-        done
-        
-        # 添加 TODO 清單（如果存在）
-        if [ -f "todo.md" ]; then
-          echo "" >> temp_merged.md
-          echo "---" >> temp_merged.md
-          echo "" >> temp_merged.md
-          cat todo.md >> temp_merged.md
-        fi
-        
-        # 替換原檔案
-        mv temp_merged.md "$MAIN_FILE"
-
-    - name: 提交更新中狀態
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add "${{ matrix.project }}"/README.md "${{ matrix.project }}"/README.md.original
-        git diff --staged --quiet || git commit -m "🔄 開始更新 ${{ matrix.project }} 行程檔案
-
-        🔄 Generated with [Claude Code](https://claude.ai/code)
-
-        Co-Authored-By: Claude <noreply@anthropic.com>"
-        git push
-
-  merge-files:
-    needs: [detect-changes, set-updating-status]
-    if: needs.detect-changes.outputs.projects != '[]' && needs.detect-changes.outputs.projects != ''
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        project: ${{ fromJson(needs.detect-changes.outputs.projects || '[]') }}
-    
-    steps:
-    - name: Checkout 程式碼
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        ref: main
-
     - name: 合併 ${{ matrix.project }} 行程檔案
       run: |
         cd "${{ matrix.project }}"
@@ -192,41 +101,38 @@ jobs:
         MAIN_FILE="README.md"
         echo "Main file: $MAIN_FILE"
         
-        # 檢查是否存在原始的 README.md.original 備份檔案
-        if [ ! -f "${MAIN_FILE}.original" ]; then
-          # 如果不存在，說明這是第一次運行，從當前檔案中提取原始內容
-          # 提取目錄部分（到第一個含有行程內容的 --- 為止）
-          awk '
-            BEGIN { in_toc = 1; found_divider = 0 }
-            /^---$/ && in_toc { 
-              found_divider++; 
-              if(found_divider >= 2) in_toc = 0; 
-              next 
-            }
-            in_toc && !/^## 🔄 最後更新時間$/ && !/^🔄 \*\*更新中/ && !/^✅ \*\*[0-9]/ { print }
-          ' "$MAIN_FILE" > "${MAIN_FILE}.original"
-        fi
+        # 備份原始檔案
+        cp "$MAIN_FILE" "${MAIN_FILE}.backup"
         
-        # 讀取標題和目錄部分
-        TITLE=$(head -n1 "${MAIN_FILE}.original")
+        # 讀取原檔案的標題和目錄部分
+        TITLE=$(head -n1 "$MAIN_FILE")
         
-        # 建立新的合併檔案
+        # 建立新的合併檔案開頭
         echo "$TITLE" > temp_merged.md
         echo "" >> temp_merged.md
         
-        # 添加目錄部分（跳過第一行標題）
-        tail -n +2 "${MAIN_FILE}.original" >> temp_merged.md
+        # 提取並保留目錄部分（到第一個 --- 為止，但不包含 --- 和更新時間區塊）
+        sed -n '2,/^---$/{
+          /^---$/d;
+          /^## 🔄 最後更新時間$/,/^---$/{
+            /^## 🔄 最後更新時間$/d;
+            /^🔄 \*\*更新中/d;
+            /^$/d;
+            d;
+          }
+          p;
+        }' "$MAIN_FILE" >> temp_merged.md
         
-        # 添加最後更新時間區塊（完成狀態）
+        # 添加最後更新時間區塊
         echo "## 🔄 最後更新時間" >> temp_merged.md
         echo "" >> temp_merged.md
-        echo "✅ **$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)')** - 更新完成" >> temp_merged.md
+        echo "$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)')" >> temp_merged.md
         echo "" >> temp_merged.md
         echo "---" >> temp_merged.md
         
         # 添加自動生成註釋
         echo "<!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->" >> temp_merged.md
-        echo "<!-- 合併完成時間: $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)') -->" >> temp_merged.md
+        echo "<!-- 合併時間: $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)') -->" >> temp_merged.md
         echo "" >> temp_merged.md
         
         # 合併所有 D*.md 檔案
@@ -248,13 +154,16 @@ jobs:
         
         # 替換原檔案
         mv temp_merged.md "$MAIN_FILE"
+        
+        # 清理備份檔案
+        rm "${MAIN_FILE}.backup"
 
     - name: 提交變更
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add "${{ matrix.project }}"/README.md
-        git diff --staged --quiet || git commit -m "✅ 完成更新 ${{ matrix.project }} 行程檔案
+        git diff --staged --quiet || git commit -m "🤖 自動合併 ${{ matrix.project }} 行程檔案
 
         🔄 Generated with [Claude Code](https://claude.ai/code)
 
