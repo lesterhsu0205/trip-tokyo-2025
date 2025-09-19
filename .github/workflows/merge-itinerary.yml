@@ -9,6 +9,10 @@ on:
       - '**/*行程總覽*.md'
   workflow_dispatch:
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   detect-changes:
     runs-on: ubuntu-latest
