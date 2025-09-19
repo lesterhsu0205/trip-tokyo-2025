@@ -111,17 +111,20 @@ jobs:
         # 建立新的合併檔案開頭
         echo "$TITLE" > temp_merged.md
         echo "" >> temp_merged.md
-
-        echo "## 最後更新時間:" >> temp_merged.md
-        echo "" >> temp_merged.md
-        echo "$(date '+%Y-%m-%d %H:%M:%S UTC')" >> temp_merged.md
-        echo "" >> temp_merged.md
         
-        # 提取並保留目錄部分（到第一個 --- 為止）
-        sed -n '2,/^---$/p' "$MAIN_FILE" >> temp_merged.md
+        # 提取並保留目錄部分（到第一個 --- 為止，但不包含 ---）
+        sed -n '2,/^---$/{ /^---$/d; p; }' "$MAIN_FILE" >> temp_merged.md
+        
+        # 添加最後更新時間區塊
+        echo "## 🔄 最後更新時間" >> temp_merged.md
+        echo "" >> temp_merged.md
+        echo "$(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)')" >> temp_merged.md
+        echo "" >> temp_merged.md
+        echo "---" >> temp_merged.md
         
         # 添加自動生成註釋
         echo "<!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->" >> temp_merged.md
+        echo "<!-- 合併時間: $(TZ='Asia/Taipei' date '+%Y-%m-%d %H:%M:%S (UTC+8)') -->" >> temp_merged.md
         echo "" >> temp_merged.md
         
         # 合併所有 D*.md 檔案
