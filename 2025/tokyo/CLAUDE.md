@@ -15,7 +15,7 @@
 ├── todo.md               # 行前 TODO 清單
 ├── D1.md                 # D1 | 10/6 淺草 + 晴空塔
 ├── D2.md                 # D2 | 10/7 箱根一日遊
-├── D2PlanB.md            # D2 | (備)墨田水族館 + 晴空塔
+├── D2PlanB.md            # D2 |（備）墨田水族館 + 晴空塔
 ├── D3.md                 # D3 | 10/8 上野動物園 + 銀座
 ├── D4.md                 # D4 | 10/9 台場購物
 ├── D5.md                 # D5 | 10/10 輕井澤自由行
@@ -40,8 +40,8 @@
 ### 2. **交通資訊**
 
 - **航班資訊：**
-  - 去程：長榮航空 BR184｜10/6 07:55 (TPE terminal 2) → 12:25 (NRT terminal 1)
-  - 回程：長榮航空 BR195｜10/13 20:40 (NRT terminal 1) → 23:20 (TPE terminal 2)
+  - 去程：長榮航空 BR184｜10/6 07:55（TPE terminal 2）→ 12:25（NRT terminal 1）
+  - 回程：長榮航空 BR195｜10/13 20:40（NRT terminal 1）→ 23:20（TPE terminal 2）
 - **當地交通原則：**
   - 主要方式：大眾運輸 + iPhone 西瓜卡
   - **尖峰時段迴避：**
@@ -69,7 +69,8 @@
     4. 複製分享連結
     5. 標註「✅ 已查證：Google Maps」
   - **官方參考資料：**
-    - [東京地鐵](https://world.jorudan.co.jp/mln/zh-tw/)
+    - [Google Maps](https://maps.google.com)
+    - [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
     - [京成電鐵](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
     - [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
 
@@ -78,7 +79,7 @@
 - **東京期間：** 10/06-10/10｜Tokyo Enjoy Hotel
   - 地址：東京都葛飾區四木 1-16-25 Sugiyama Hights 101,102,103
   - 最近車站：四木站（京成押上線）
-- **輕井澤期間：** 10/10-10/13｜輕井澤優雅酒店  
+- **輕井澤期間：** 10/10-10/13｜輕井澤優雅酒店
   - 地址：長野縣輕井澤 Kyu Karuizawa 1314
   - 最近車站：輕井澤站
 
