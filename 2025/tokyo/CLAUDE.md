@@ -60,6 +60,8 @@
     - [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
     - [京成電鐵](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
     - [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
+    - [玩具王國巴士時刻表-去](https://www.seibubus.co.jp/docs/rosen/karuizawa/eki.pdf)
+    - [玩具王國巴士時刻表-回](https://www.seibubus.co.jp/docs/rosen/karuizawa/onsen.pdf)
 
 ### 3. **住宿資訊**
 

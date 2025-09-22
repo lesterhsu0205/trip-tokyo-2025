@@ -10,7 +10,7 @@
 - [ ] **確認京成電鐵 Access Express / Skyliner 時刻表** - **D1 14:00 出發** - 成田機場第1航廈→青砥→四木站
 - [ ] **D8 京成上野→成田機場 Skyliner 預訂** - **17:00 出發** - 約 41-46 分鐘，確認座位訂位
 - [ ] 下載並研讀官方交通時程表資訊
-  - [ ] [東京地鐵路線圖](https://world.jorudan.co.jp/mln/zh-tw/)
+  - [ ] [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
   - [ ] [京成電鐵時刻表](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
   - [ ] [北陸新幹線時刻表](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
 
@@ -29,9 +29,9 @@
 
 ## 景點門票 & 一日遊
 
-- [v] **Klook 箱根一日遊** (D2 行程) - 需提前購票
+- [x] **Klook 箱根一日遊** (D2 行程) - 需提前購票
 - [ ] **東京晴空塔登塔券 (天望甲板 + 天望回廊)** - **D1 晚上 19:25-21:00** - 建議預約時段票券
-- [ ] **D6 輕井澤玩具王國門票** - **08:30-20:30** - 建議預約 Free Pass
+- [ ] **D6 [輕井澤玩具王國門票](https://www.omochaoukoku.com/karuizawa/charge/)** - **08:30-20:30** - 建議預約 Free Pass
   - [ ] **營業時間確認**: 10:00-17:00（11月為10:00-16:30）
   - [ ] **門票優惠**: 查詢飯店套票方案（住宿+Free Pass）
   - [ ] **年齡限制**: 2-3歲兒童特殊票價
@@ -52,7 +52,7 @@
 - [ ] **D6 玩具王國交通安排**
   - [ ] **確認計程車叫車方式** - **08:30 出發** - 距離23.5公里，約30-40分鐘
   - [ ] **備用租車方案** - 查詢輕井澤站租車服務
-  - [ ] **確認玩具王國巴士時刻表** - 輕井澤站出發班次
+  - [x] **確認[玩具王國巴士時刻表](https://www.seibubus.co.jp/docs/rosen/karuizawa/eki.pdf)** - 輕井澤站出發班次
   - [ ] **確認晚餐餐廳營業時間** - **19:00-20:30** - 親子友善餐廳預約
 
 ## 親子友善購物地點
