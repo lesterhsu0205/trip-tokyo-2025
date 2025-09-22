@@ -76,7 +76,7 @@
 
 - 🗺️ [返回飯店導航](https://www.google.com/maps/dir/押上駅/四ツ木駅)  
   *(需實際查詢)*
-- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/Tokyo+Enjoy+Hotel)  
-  *(需實際查詢)*
+- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25)  
+  ✅ 已查證：步行約 4-5 分鐘
 
 回到 Tokyo Enjoy Hotel 休息

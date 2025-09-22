@@ -66,13 +66,21 @@
 ### 3. **住宿資訊**
 
 - **東京期間：** 10/06-10/10｜Tokyo Enjoy Hotel
-  - 地址：東京都葛飾區四木 1-16-25 Sugiyama Hights 101,102,103
+  - 地址：日本〒124-0011 Tokyo, Katsushika City, Yotsugi, 1 Chome−16−25
   - 最近車站：四木站（京成押上線）
-- **輕井澤期間：** 10/10-10/13｜輕井澤優雅酒店
-  - 地址：長野縣輕井澤 Kyu Karuizawa 1314
+- **輕井澤期間：** 10/10-10/13｜Hotel Karuizawa Elegance
+  - 地址：日本〒389-0102 Nagano, Kitasaku District, Karuizawa, 野沢原1314-6 ホテル軽井沢エレガンス内
   - 最近車站：輕井澤站
 
-### 4. **餐飲與購物要求**
+### 4. **景點資訊**
+
+- **東京期間：** 10/06-10/10
+
+- **輕井澤期間：** 10/10-10/13
+  - [Taliesin 塔列辛之鹽澤湖](https://choyce.tw/taliesin/)
+  - [湯川公園](https://campaigns.ohpama.com/wwpkg/summertour/travel-detail.php?id=15)
+
+### 5. **餐飲與購物要求**
 
 - **用餐安排強制規則：**
   - **需有中文或英文菜單，或是有標注適合外國旅客**
