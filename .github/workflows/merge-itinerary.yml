@@ -5,6 +5,7 @@ on:
     paths:
       - '**/D*.md'
       - '**/todo.md'
+      - '**/remark.md'
       - '**/README.md'
       - '**/CLAUDE.md'
   workflow_dispatch:
@@ -37,7 +38,7 @@ jobs:
         for file in $CHANGED_FILES; do
           echo "Checking file: $file"
           # 檢查是否為行程相關檔案 (放寬條件)
-          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ README.*\.md$ ]]; then
+          if [[ $file =~ D[0-9]+\.md$ ]] || [[ $file =~ todo\.md$ ]] || [[ $file =~ remark\.md$ ]] || [[ $file =~ README.*\.md$ ]]; then
             # 提取專案路徑 (例如: 2025/tokyo)
             PROJECT_DIR=$(dirname "$file")
             echo "Found itinerary file in: $PROJECT_DIR"
@@ -151,6 +152,14 @@ jobs:
           echo "---" >> temp_merged.md
           echo "" >> temp_merged.md
           cat todo.md >> temp_merged.md
+        fi
+
+        # 添加 Remark 清單（如果存在）
+        if [ -f "remark.md" ]; then
+          echo "" >> temp_merged.md
+          echo "---" >> temp_merged.md
+          echo "" >> temp_merged.md
+          cat remark.md >> temp_merged.md
         fi
         
         # 替換原檔案

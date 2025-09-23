@@ -13,6 +13,7 @@
 ├── README.md             # 主要行程檔案 (自動合併版本)
 ├── CLAUDE.md             # Claude Code 專案指引
 ├── todo.md               # 行前 TODO 清單
+├── remark.md             # 行程中要點
 ├── D1.md                 # D1 | 10/6 淺草 + 晴空塔
 ├── D2.md                 # D2 | 10/7 箱根一日遊
 ├── D2PlanB.md            # D2 |（備）墨田水族館 + 晴空塔
