@@ -4,12 +4,12 @@
 
 ### 路線：四木站（四ツ木駅）→ 押上站（押上駅）
 
-- **使用：** 京成押上線直達
-- **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
-- **Buffer 時間：** 25 分鐘，考慮早晨移動及嬰兒車通行
-
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
-  *(需實際查詢)*
+- **推薦路線（最適合家庭）：** 京成押上線直達（往羽田機場方向）
+  - ✅ 已查證：Yahoo 路線 1，4 分鐘，¥167，無需轉乘，行駛里程 3.1km
+  - 直達車，最適合嬰兒車
+- **Buffer 時間：** 26 分鐘，考慮早晨移動及嬰兒車通行
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=押上駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=押上&y=2025&m=10&d=07&hh=09&m1=3&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **10:05-12:25** 🐧 墨田水族館（**2h20min**）
 
@@ -85,13 +85,13 @@
 
 ### 路線：押上站（押上駅）→ 四木站（四ツ木駅）
 
-- **使用：** 京成押上線
-- **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
-- **Buffer 時間：** 25 分鐘，考慮用餐後移動及嬰兒車通行
-
-- 🗺️ [返回飯店導航](https://www.google.com/maps/dir/押上駅/四ツ木駅)  
-  *(需實際查詢)*
-- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25)  
-  ✅ 已查證：步行約 4-5 分鐘
+- **推薦路線（最適合家庭）：** 京成押上線直達（往印旛日本醫大方向）
+  - ✅ 已查證：Yahoo 路線 1，6 分鐘，¥167，無需轉乘，行駛里程 3.1km
+  - 直達車，最適合嬰兒車
+- **Buffer 時間：** 24 分鐘，考慮用餐後移動及嬰兒車通行
+- **步行至旅館：** ✅ 已查證：約 4-5 分鐘
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=押上駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=押上&to=四ツ木&y=2025&m=10&d=07&hh=18&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
+- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25&travelmode=walking)
 
 回到 Tokyo Enjoy Hotel 休息

@@ -115,7 +115,10 @@ code in this repository.
          - 記錄所選路線特徵（如「路線 2：經由 XX 線，步行較少」）
       3. **標註結果**：
          - 格式見下方 **查證標註要求**
-         - 實際時間 + 路線詳情 + Google Maps URL
+         - 實際時間 + 路線詳情 + Google Maps URL + Yahoo 路線 URL
+           - **Yahoo 路線資訊格式**：
+             - 必須標註：「Yahoo 路線 [編號]，[時間] 分鐘，¥[費用]，轉乘 [次數] 次，行駛里程 [距離]km」
+             - 注意：「行駛里程」而非「步行」
            - Google Maps URL 建立方式如下：
              1. **判斷 travelmode**（根據行程情境自動選擇）：
                 - `transit`：城市間移動、跨區域移動、明確提到電車/地鐵/巴士
@@ -123,6 +126,14 @@ code in this repository.
                 - `driving`：郊區景點、租車行程、明確提到開車
              2. **建構 Google Maps URL**：
                 - 格式：`https://www.google.com/maps/dir/?api=1&origin=[起點]&destination=[終點]&travelmode=[模式]`
+           - **Yahoo 路線 URL 標註**：
+             - 必須在 Google Maps 導航連結下方加上 Yahoo 路線連結
+             - 格式：`- 🚃 [Yahoo 路線查詢](完整的 Yahoo Transit URL)`
+             - 範例：
+               ```markdown
+               - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=台場駅&travelmode=transit)
+               - 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=台場&y=2025&m=10&d=09&hh=09&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
+               ```
   - **票價資訊：** 門票、交通費
   - **特殊限制：** 年齡限制、推車限制、預約需求
 - ⚠️ **建議使用**：餐廳評價、景點最新資訊
