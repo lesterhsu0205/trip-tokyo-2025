@@ -112,7 +112,7 @@
 - **親子友善：** 寺廟境內空間寬敞，推車可通行，適合帶小朋友體驗日本文化
 - **參拜禮儀：** 可教導小朋友參拜步驟，培養文化體驗
 - 📸 **推薦拍照角度：** 從本堂往雷門方向
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/西松屋+浅草/浅草寺?travelmode=walking)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/西松屋+浅草/浅草寺?travelmode=walking)
   *(需實際查詢)*
 
 ## **18:20-19:15** 🍽️ 淺草晚餐（**55min**）
@@ -141,7 +141,7 @@
 - **營業時間：** ⚠️ 需確認實際營業時間
 - **親子友善：** ⭐⭐⭐ 座位寬敞，適合家庭用餐，可讓小朋友體驗迴轉壽司樂趣
 
-- 🗺️ [Google Map 淺草親子餐廳](https://www.google.com/maps/search/親子友善餐廳+浅草) *(需實際查詢)*
+- 🗺️ [Google Maps 淺草親子餐廳](https://www.google.com/maps/search/親子友善餐廳+浅草) *(需實際查詢)*
 
 ## **19:20-19:35** 🚇 移動至晴空塔（**15min**）
 
@@ -150,7 +150,7 @@
 - **使用：** 都營淺草線 (都営浅草線)
 - **所需時間：** ✅ 已查證：3-5 分鐘（1 站直達）
 - **Buffer 時間：** 12 分鐘，考慮晚餐後移動及嬰兒車通行
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/浅草駅/押上駅?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/浅草駅/押上駅?travelmode=transit)
   *(需實際查詢)*
 
 ## **19:35-21:00** 🗼 東京晴空塔 (東京スカイツリー)（**1h25min**）
@@ -162,7 +162,7 @@
 - **親子友善：** 推車可直接搭電梯，觀景台空間寬敞，適合帶小朋友欣賞夜景，設有親子廁所
 - 🎫 **票券建議：** 建議預約時段票券，避免現場排隊
 - ⏰ **遊覽時間：** 安排 85 分鐘，充分欣賞東京夜景
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/押上駅/東京スカイツリー?travelmode=walking)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/押上駅/東京スカイツリー?travelmode=walking)
   *(需實際查詢)*
 
 ## **21:05-21:30** 🏨 返回旅館（**25min**）
@@ -173,7 +173,7 @@
 - **所需時間：** ✅ 已查證：約 5 分鐘 (直達)
 - **Buffer 時間：** 25 分鐘，考慮晴空塔下樓移動時間及嬰兒車通行
 - **步行至旅館：** ✅ 已查證：約 4-5 分鐘（距離約 300-400 公尺）
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/押上駅/四ツ木駅?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/押上駅/四ツ木駅?travelmode=transit)
   *(需實際查詢)*
 - 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25?travelmode=walking)
   ✅ 已查證：步行約 4-5 分鐘
@@ -305,7 +305,7 @@
 - **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
 - **Buffer 時間：** 25 分鐘，考慮早晨移動及嬰兒車通行
 
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
   *(需實際查詢)*
 
 ## **10:05-12:30** 🐧 墨田水族館（**2h25min**）
@@ -405,7 +405,7 @@
 - **交通：** JR 上野站廣小路出口步行 3 分鐘
 - **注意：** 全面禁煙，用餐時間限制 90 分鐘
 - **用餐時間：** 40 分鐘，充分享用早餐並稍作休息
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/上野駅/東京都台東区上野6-8-15)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/上野駅/東京都台東区上野6-8-15)
 
 ## **10:05-12:25** 🐼 動物園 or 博物館（**2h20min**）
 
@@ -454,7 +454,7 @@
   - **3F**: LEGO、Tomica、有教育性童玩與木製軌道區
   - **4F：** 桌遊、拼圖、模型與有趣的 **slot-car 賽道** 玩體驗（200 円／5 分鐘）
   - **5–6F：** 餐廳用餐休息
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/銀座駅/博品館銀座本店)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/銀座駅/博品館銀座本店)
 
 ## **16:00-16:55** 🍽️ 銀座親子友善下午茶（**55min**）
 
@@ -464,7 +464,7 @@
 - **星巴克銀座 6 丁目店**: 親子友善，有沙發座位區
 - **Ginza Honey Bee Café**: 兒童友善蜂蜜主題咖啡廳
 - **築地銀だこ銀座店**（たこ焼き）：章魚燒，小朋友喜愛的輕食
-- 🗺️ [Google Map 導航](https://www.google.com/maps/search/親子友善餐廳+銀座)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/search/親子友善餐廳+銀座)
 
 ## **17:00-17:40** 🏨 返回旅館（**40min**）
 
@@ -504,7 +504,7 @@
 - **所需時間：** ✅ 已查證：約 40 分鐘（四木→新橋 25 分鐘 + 新橋→台場 15 分鐘）
 - **避開上班尖峰時段**
 - **Buffer 時間：** 10 分鐘嬰兒車移動緩衝
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/四ツ木駅/台場駅) *(需實際查詢)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/台場駅) *(需實際查詢)*
 
 ## **10:10-12:05** 🛍️ DECKS Tokyo Beach（**1h55min**）
 
@@ -579,11 +579,11 @@
 - **台場站 → 新橋站（新橋駅）**
   - 使用：百合海鷗線（ゆりかもめ線）
   - 所需時間：✅ 已查證：約 15 分鐘
-  - 🗺️ [Google Map 導航](https://www.google.com/maps/dir/台場駅/新橋駅)
+  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/台場駅/新橋駅)
 - **新橋 → 秋葉原站（秋葉原駅）**  
   - 使用：JR 山手線（JR 山手線）
   - 所需時間：✅ 已查證：約 8 分鐘
-  - 🗺️ [Google Map 導航](https://www.google.com/maps/dir/新橋駅/秋葉原駅)
+  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/新橋駅/秋葉原駅)
 - **秋葉原逛街：** 電器街、動漫商品、遊戲中心體驗
 - 可購買電子產品、玩具、動漫周邊商品
 
@@ -594,7 +594,7 @@
 - **正確路線：** 需要轉乘至京成押上線  
   - 秋葉原 → 押上站等轉乘點 → 京成押上線 → 四木
   - **總時間：** ✅ 已查證：約 30 分鐘（秋葉原→新日本橋→押上→四木）
-  - 🗺️ [Google Map 導航](https://www.google.com/maps/dir/秋葉原駅/四ツ木駅) *(需實際查詢)*
+  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/秋葉原駅/四ツ木駅) *(需實際查詢)*
 
 - 步行約 4-5 分鐘至 Tokyo Enjoy Hotel ✅ 已查證
 - 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25)
@@ -646,7 +646,7 @@
   - 東京 Metro 銀座線：淺草 → 上野（約 5 分鐘）
 - **所需時間：** ✅ 已查證：約 30-40 分鐘（含轉乘時間）
 - **Buffer 時間：** 20 分鐘，考慮轉乘及行李移動
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/四ツ木駅/錦糸町駅/上野駅) *(需實際查詢)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/錦糸町駅/上野駅) *(需實際查詢)*
 
 ## **09:05-09:30** 🧳 上野站寄放行李（**25min**）
 
@@ -659,7 +659,7 @@
 
 - 使用：北陸新幹線（北陸新幹線）「はくたか」或「あさま」
 - **所需時間：** 約 70 分鐘 *（✅ 已查證，正常範圍 55-70 分鐘）*
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/上野駅/輕井沢駅) *(需實際查詢)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/上野駅/輕井沢駅) *(需實際查詢)*
 
 ## **11:05-11:30** 🏨 抵達輕井澤（**25min**）
 
@@ -672,7 +672,7 @@ Check-in + 寄放行李
 悠閒散步約 55 分鐘，欣賞自然美景
 
 - **交通：** ✅ 已查證：輕井澤站步行約 10-15 分鐘，或計程車 5-7 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢駅/雲場池) *(需實際查詢)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢駅/雲場池) *(需實際查詢)*
 
 ## **12:35-13:30** 🍽️ 午餐時間（**55min**）
 
@@ -685,7 +685,7 @@ Check-in + 寄放行李
 - **ピエール エルメ**（Pierre Herme）：法式甜點，環境優雅
 
 - **交通：** ✅ 已查證：從雲場池步行約 20 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/雲場池/旧軽井沢銀座通り) *(需實際查詢)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/雲場池/旧軽井沢銀座通り) *(需實際查詢)*
 
 ## **13:35-15:00** 🛍️ 舊輕井澤銀座通（**1h25min**）
 
@@ -705,7 +705,7 @@ Check-in + 寄放行李
 - **票價：** 720 日圓（單程）
 - **付款方式：** 上車取整理券，下車現金付費（無法使用 IC 卡）
 - **Buffer 時間：** 7 分鐘，考慮等車時間
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢駅) *(需實際查詢，先回輕井澤站搭巴士)*
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢駅) *(需實際查詢，先回輕井澤站搭巴士)*
 
 ## **15:40-16:30** 💧 白絲瀑布（**50min**）
 
@@ -718,7 +718,7 @@ Check-in + 寄放行李
 可選擇回銀座咖啡店或直接回飯店休息
 
 - **交通：** ✅ 已查證：巴士回程約 20-25 分鐘，或計程車約 15 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/白糸の滝/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/白糸の滝/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
   ⚠️ 需確認實際路線
 
 ## **17:35-19:00** 🍽️ 晚餐時光（**1h25min**）
@@ -729,7 +729,7 @@ Check-in + 寄放行李
 - **川上庵**（Kawakami-an）：日式蕎麥麵餐廳，有兒童座位
 - **飯店內餐廳：** 輕井澤優雅酒店餐廳，方便親子用餐
 
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/ハルニレテラス)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/ハルニレテラス)
   ⚠️ 需確認實際路線
 
 
@@ -749,7 +749,7 @@ Check-in + 寄放行李
 - **所需時間**: ✅ 已查證：30-40 分鐘
 - **Buffer 時間**: 20-30 分鐘，符合 10 分鐘以上要求
 - **建議**: 提早進場避免人潮
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢おもちゃ王国)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢おもちゃ王国)
   ⚠️ 需確認實際路線
 
 ## 🎠 **09:50-12:00** 上午遊玩時間（**2h10min**）  
@@ -810,7 +810,7 @@ Check-in + 寄放行李
 - **所需時間**: ✅ 已查證：30-40 分鐘
 - **Buffer 時間**: 25 分鐘，符合 10 分鐘以上要求
 - 😴 回飯店休息準備晚餐
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢おもちゃ王国/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢おもちゃ王国/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
   ⚠️ 需確認實際路線
 
 ## 😴 **18:20-18:50** 飯店休息時間（**30min**）
@@ -875,7 +875,7 @@ Check-in + 寄放行李
   - 🚗 **親子遊樂**：小賽車（300 日圓）、腳踏車單軌電車（300 日圓）
   - ⛳ **運動設施**：家族高爾夫球場（大人 1000 日圓、小孩 500 日圓）
 - **適合年齡**：1 歲幼兒可在湖畔散步，5 歲可體驗遊樂設施
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+旧軽井沢1314/軽井沢タリアセン) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+旧軽井沢1314/軽井沢タリアセン) ⚠️ 需確認實際路線
 
 ## **12:40-13:40** 🌳 湯川公園（**1h**）
 
@@ -892,7 +892,7 @@ Check-in + 寄放行李
 - **交通方式**：
   - 從 Taliesin 步行約 15 分鐘
   - ✅ 已查證：位於輕井澤站附近
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢タリアセン/湯川ふるさと公園) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢タリアセン/湯川ふるさと公園) ⚠️ 需確認實際路線
 
 ## **13:50-14:50** 🍽️ 午餐時光（**1h**）
 
@@ -927,7 +927,7 @@ Check-in + 寄放行李
 - **交通方式**：
   - 從舊輕井澤銀座通步行約 5 分鐘
   - ✅ 已查證：交通便利，推嬰兒車方便
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢ニューアートミュージアム) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢ニューアートミュージアム) ⚠️ 需確認實際路線
 
 ## **16:10-17:40** ⛩️ 熊野皇大神社巡禮（**1h30min**）
 
@@ -945,7 +945,7 @@ Check-in + 寄放行李
   - 從新藝術博物館搭乘巴士或計程車
   - 輕井澤町循環巴士（東．南迴線）約 15 分鐘
   - ✅ 已查證：從輕井澤站車程約 15 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢ニューアートミュージアム/熊野皇大神社) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢ニューアートミュージアム/熊野皇大神社) ⚠️ 需確認實際路線
 
 ## **17:50-18:40** 🏔️ 見晴台觀景（**50min**）
 
@@ -961,7 +961,7 @@ Check-in + 寄放行李
 - **交通方式**：
   - 從熊野皇大神社步行約 5-10 分鐘
   - 順著參拜路線即可到達
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/熊野皇大神社/見晴台) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/熊野皇大神社/見晴台) ⚠️ 需確認實際路線
 
 ## **18:50-19:50** 🛍️ 舊輕井澤銀座通悠閒時光（**1h**）
 
@@ -979,7 +979,7 @@ Check-in + 寄放行李
   - 從見晴台搭乘輕井澤町循環巴士回舊輕井澤
   - 巴士班次約 1 小時一班，單程 100 日圓
   - ✅ 已查證：是親子徒步遊覽的經典路線
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/見晴台/旧軽井沢銀座通り) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/見晴台/旧軽井沢銀座通り) ⚠️ 需確認實際路線
 
 ## **20:00-20:30** 🚶 返回酒店（**30min**）
 
@@ -990,7 +990,7 @@ Check-in + 寄放行李
   - 或搭乘輕井澤町循環巴士至輕井澤站，再步行至酒店
   - 計程車約 5-10 分鐘
 - **所需時間**：✅ 已查證：步行約 15-20 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6) ⚠️ 需確認實際路線
 
 ## **20:40-21:10** 😴 酒店休息時間（**30min**）
 
@@ -1061,7 +1061,7 @@ Check-in + 寄放行李
 - **所需時間**: ✅ 已查證：約 40-45 分鐘（含轉乘及等車時間）
 - **接駁巴士**: ⚠️ 需確認 2025 年時刻表，從中輕井澤站南口出發
 - **特別提醒**: 接駁巴士班次有限，請預先查詢官方時刻表
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/中軽井沢駅/星野度假區)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/中軽井沢駅/星野度假區)
   ⚠️ 需確認實際路線
 
 ## ⛪ **10:20-11:15** 教會建築巡禮（**55min**）  
@@ -1115,7 +1115,7 @@ Check-in + 寄放行李
 - **交通時間**: 信濃鐵道約 4 分鐘 ✅ 已查證，總時間約 25 分鐘
 - **接駁巴士**: ⚠️ 需確認時刻表和等車時間
 - 🛍️ 輕井澤王子 Outlet 就在輕井澤站南口旁，步行約 3 分鐘 ✅ 已查證：官方網站
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/星野度假區/中軽井沢駅/軽井沢駅/軽井沢・プリンスショッピングプラザ)（需實際查詢）
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/星野度假區/中軽井沢駅/軽井沢駅/軽井沢・プリンスショッピングプラザ)（需實際查詢）
 
 ## 🛍️ **13:50-17:30** Outlet 購物（**3h40min**）  
 
@@ -1159,7 +1159,7 @@ Check-in + 寄放行李
 - **所需時間**: ✅ 已查證：約 18-20 分鐘步行時間
 - **替代選項**: 計程車或預約酒店接駁服務
 - 🧳 回飯店休息整理行李，準備明日回程
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢・プリンスショッピングプラザ/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢・プリンスショッピングプラザ/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6)
   ⚠️ 需確認實際路線
 
 
@@ -1199,7 +1199,7 @@ Check-in + 寄放行李
 - 🧳 從酒店大廳領取寄放的行李
 - **交通**: 步行約 10 分鐘 ✅ 已查證：距離約 700 公尺
 - 📋 確認新幹線車票訂位資訊
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢駅?travelmode=walking)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢駅?travelmode=walking)
   ✅ 已查證：步行約 10-15 分鐘
 
 ## **14:00-15:10** 🚄 北陸新幹線（**1h10min**）
@@ -1209,7 +1209,7 @@ Check-in + 寄放行李
 - 使用：北陸新幹線 (北陸新幹線) 「はくたか」或「あさま」
 - **所需時間**: 約 70 分鐘 ✅ 已查證：正常範圍 54-72 分鐘
 - 🎧 新幹線上可讓小朋友休息或欣賞沿途風景
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢駅/上野駅?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢駅/上野駅?travelmode=transit)
   ✅ 已查證時刻表
 
 ## **15:20-16:20** 🧳 京成上野站領取行李 + 休息（**1h**）
@@ -1239,7 +1239,7 @@ Check-in + 寄放行李
 - 使用：京成 Skyliner（京成スカイライナー）17:00 班次
 - **所需時間**: 約 41-46 分鐘 ✅ 已查證
 - **班次**: 約每 20 分鐘一班，05:40-20:20 運行
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/上野駅/成田国際空港) ✅ 已查證時刻表
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/上野駅/成田国際空港) ✅ 已查證時刻表
 
 ## 🛂 **17:49-20:00** 機場手續（**2h11min**）  
 
@@ -1277,7 +1277,7 @@ Check-in + 寄放行李
 - [ ] 確認 Tokyo Enjoy Hotel 入住資訊
 - [ ] 確認輕井澤優雅酒店入住資訊
 - [ ] 準備住宿確認書 (紙本或電子版)
-- [ ] 確認飯店地址及 Google Map 導航路線
+- [ ] 確認飯店地址及 Google Maps 導航路線
 
 ## 機場購物相關
 
@@ -1302,7 +1302,7 @@ Check-in + 寄放行李
 
 - [ ] **確認箱根一日遊集合點位置** - **D2 08:00 新丸之內大廈集合** - 需確認確切集合位置
 - [ ] 準備一日遊當日行李攜帶計劃
-- [ ] **儲存 Google Map 導航路線** - **D2 07:00 出發** - 四木站→新丸之內大廈（約50分鐘）
+- [ ] **儲存 Google Maps 導航路線** - **D2 07:00 出發** - 四木站→新丸之內大廈（約50分鐘）
 - [ ] **D5 輕井澤交通準備**
   - [ ] **確認上野站行李寄放櫃位置** - **09:00-09:30** - 大件行李寄放
   - [ ] **確認草軽巴士時刻表** - **15:00 前往白絲瀑布** - 北口2號站台，單程720日圓，需現金付費
@@ -1325,7 +1325,7 @@ Check-in + 寄放行李
   - [ ] **台場最後購物** - **17:10-17:40** - 土產、紀念品、零食
   - [ ] **秋葉原電器街** - **17:40-18:50** - 電子產品、動漫周邊（含移動和逛街時間）
 - [ ] **最佳選擇: 市區西松屋** (如新宿、淺草、上野附近)
-- [ ] 確認各購物地點的 Google Map 導航路線
+- [ ] 確認各購物地點的 Google Maps 導航路線
 
 ## 入境申報 & 快速通關
 
@@ -1352,5 +1352,5 @@ Check-in + 寄放行李
 - [ ] 預訂親子友善餐廳 (如有特殊需求)
 - [ ] 確認天氣預報並準備適當衣物
 - [ ] 安排行李寄送服務 (如需要)
-- [ ] 儲存重要 Google Map 導航路線至手機
+- [ ] 儲存重要 Google Maps 導航路線至手機
 - [ ] 確認各行程間的最佳交通路線

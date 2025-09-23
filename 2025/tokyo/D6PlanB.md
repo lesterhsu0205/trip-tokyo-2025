@@ -18,7 +18,7 @@
   - 步行需 35-40 分鐘
   - 巴士+步行約 25-30 分鐘
 - **Buffer 時間**：安排 1h35min 含等車、轉乘緩衝
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢タリアセン) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/軽井沢タリアセン) ⚠️ 需確認實際路線
 
 ## **11:00-12:25** 🌲 Taliesin 塔列辛之鹽澤湖（**1h25min**）
 
@@ -32,7 +32,7 @@
   - 🚗 **親子遊樂**：小賽車（300 日圓）、腳踏車單軌電車（300 日圓）
   - ⛳ **運動設施**：家族高爾夫球場（大人 1000 日圓、小孩 500 日圓）
 - **適合年齡**：1 歲幼兒可在湖畔散步，5 歲可體驗遊樂設施
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+旧軽井沢1314/軽井沢タリアセン) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+旧軽井沢1314/軽井沢タリアセン) ⚠️ 需確認實際路線
 
 ## **12:30-13:30** 🍽️ 午餐時光（**1h**）
 
@@ -69,7 +69,7 @@
 - **交通方式**：
   - 從餐廳步行約 10 分鐘
   - ✅ 已查證：位於輕井澤站附近
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/湯川ふるさと公園) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/湯川ふるさと公園) ⚠️ 需確認實際路線
 
 ## **14:40-15:30** 🎨 輕井澤新藝術博物館（**50min**）
 
@@ -86,7 +86,7 @@
 - **交通方式**：
   - 從舊輕井澤銀座通步行約 5 分鐘
   - ✅ 已查證：交通便利，推嬰兒車方便
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢ニューアートミュージアム) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/軽井沢ニューアートミュージアム) ⚠️ 需確認實際路線
 
 ## **15:35-17:00** ⛩️ 熊野皇大神社巡禮（**1h25min**）
 
@@ -104,7 +104,7 @@
   - 從新藝術博物館搭乘巴士或計程車
   - 輕井澤町循環巴士（東．南迴線）約 15 分鐘
   - ✅ 已查證：從輕井澤站車程約 15 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/軽井沢ニューアートミュージアム/熊野皇大神社) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢ニューアートミュージアム/熊野皇大神社) ⚠️ 需確認實際路線
 
 ## **17:05-17:50** 🏔️ 見晴台觀景（**45min**）
 
@@ -120,7 +120,7 @@
 - **交通方式**：
   - 從熊野皇大神社步行約 5-10 分鐘
   - 順著參拜路線即可到達
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/熊野皇大神社/見晴台) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/熊野皇大神社/見晴台) ⚠️ 需確認實際路線
 
 ## **17:55-18:55** 🍽️ 晚餐時光（**1h**）
 
@@ -149,7 +149,7 @@
   - 再步行至酒店約 15 分鐘
   - 計程車直達約 10-15 分鐘
 - **所需時間**：✅ 已查證：步行約 15-20 分鐘
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6) ⚠️ 需確認實際路線
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/旧軽井沢銀座通り/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6) ⚠️ 需確認實際路線
 
 ---
 

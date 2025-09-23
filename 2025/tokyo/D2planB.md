@@ -8,7 +8,7 @@
 - **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
 - **Buffer 時間：** 25 分鐘，考慮早晨移動及嬰兒車通行
 
-- 🗺️ [Google Map 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
   *(需實際查詢)*
 
 ## **10:05-12:25** 🐧 墨田水族館（**2h20min**）
