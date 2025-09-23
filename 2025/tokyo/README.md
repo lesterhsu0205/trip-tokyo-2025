@@ -6,13 +6,14 @@
 
 
 
+
 ## 🔄 最後更新時間
 
-✅ 2025-09-23 22:55:29 (UTC+8)
+✅ 2025-09-24 00:03:53 (UTC+8)
 
 ---
 <!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->
-<!-- 合併時間: 2025-09-23 22:55:29 (UTC+8) -->
+<!-- 合併時間: 2025-09-24 00:03:53 (UTC+8) -->
 
 
 # D1 | 10/6 Mon 淺草 + 晴空塔
@@ -69,10 +70,11 @@
 ### 路線：四木站（四ツ木駅）→ 淺草站（浅草駅）
 
 - **推薦路線（最適合家庭）：** 京成押上線直達（往羽田機場方向）
-  - ✅ 已查證：Yahoo 路線 1，8 分鐘，¥345，無需轉乘，步行 4.6km
+  - ✅ 已查證：Yahoo 路線 1，8 分鐘，¥345，無需轉乘，行駛里程 4.6km
   - 直達車，最適合嬰兒車
 - **Buffer 時間：** 12 分鐘（考慮嬰兒車移動）
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=浅草駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=浅草&y=2025&m=10&d=06&hh=16&m1=1&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **16:35-17:15** 🌅 雷門 + 仲見世通（**40min**）
 
@@ -149,10 +151,11 @@
 ### 路線：淺草站（浅草駅）→ 押上站（押上駅）
 
 - **推薦路線（最適合家庭）：** 都營淺草線直達（往京成高砂方向）
-  - ✅ 已查證：Yahoo 路線 1，3 分鐘，¥178，無需轉乘，步行 1.5km
+  - ✅ 已查證：Yahoo 路線 1，3 分鐘，¥178，無需轉乘，行駛里程 1.5km
   - 1 站直達，最適合嬰兒車
 - **Buffer 時間：** 12 分鐘，考慮晚餐後移動及嬰兒車通行
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=浅草駅&destination=押上駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=浅草&to=押上&y=2025&m=10&d=06&hh=19&m1=2&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **19:40-21:05** 🗼 東京晴空塔 (東京スカイツリー)（**1h25min**）
 
@@ -171,11 +174,12 @@
 ### 路線：押上站（押上駅）→ 四木站（四ツ木駅）
 
 - **推薦路線（最適合家庭）：** 京成押上線直達（往京成高砂方向）
-  - ✅ 已查證：Yahoo 路線 3，5 分鐘，¥167，無需轉乘，步行 3.1km
+  - ✅ 已查證：Yahoo 路線 3，5 分鐘，¥167，無需轉乘，行駛里程 3.1km
   - 直達車，最適合嬰兒車
 - **Buffer 時間：** 20 分鐘，考慮晴空塔下樓移動時間及嬰兒車通行
 - **步行至旅館：** ✅ 已查證：約 4-5 分鐘（距離約 300-400 公尺）
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=押上駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=押上&to=四ツ木&y=2025&m=10&d=06&hh=21&m1=1&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 - 🗺️ [飯店步行路線](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25&travelmode=walking)
 
 
@@ -189,15 +193,17 @@
 準備嬰兒車、奶粉、換洗衣物  
 山區較涼，準備外套和長袖
 
-## **07:05-07:45** 🚇 前往新丸之內大廈集合點（**40min**）
+## **07:00-07:45** 🚇 前往新丸之內大廈集合點（**45min**）
 
-### 路線：四木站（四ツ木駅）→ 新丸之內大廈
+### 路線：四木站（四ツ木駅）→ 新丸之內大廈（東京站旁）
 
-- **使用：** [建議路線](https://maps.app.goo.gl/nf7gFQN8QKK9ANhY7)
-- **所需時間：** ✅ 已查證：約 30 分鐘（含轉乘等車時間）
-- **Buffer 時間：** 10 分鐘，建議 07:45 前抵達，07:50 集合
+- **推薦路線（最適合家庭）：** 京成押上線 → JR 總武線 → JR 中央線快速
+  - ✅ 已查證：Yahoo 路線 1，36 分鐘，¥512，轉乘 2 次，行駛里程 10.8km
+  - 抵達東京站後步行約 5 分鐘至新丸之內大廈
+- **Buffer 時間：** 9 分鐘，建議 07:45 前抵達，07:50 集合
 - **集合地點：** 新丸之內大廈
-- 🗺️ [Google Maps 導航 - 需實際查詢](https://www.google.com/maps/dir/四ツ木駅/新丸之内ビルディング?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=新丸之内ビルディング&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=東京&y=2025&m=10&d=07&hh=07&m1=0&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **07:50-08:00** 🚌 準時集合出發（**10min**）
 
@@ -250,14 +256,14 @@
 
 ### **18:20** 抵達東京解散
 
-## **18:30-18:45** 🚇 移動至東京站周邊（**15min**）
+## **18:30-18:45** 🚶 移動至東京站周邊（**15min**）
 
 ### 路線：新丸之內大廈解散點 → 東京站周邊
 
 - **步行至東京站：** ✅ 已查證：約 5 分鐘
 - **晚餐地點：** 東京站周邊親子友善餐廳
 - **Buffer 時間：** 10 分鐘，移動及找餐廳
-- 🗺️ [Google Maps 導航 - 需實際查詢](https://www.google.com/maps/dir/新丸之内ビルディング/東京駅?travelmode=walking)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=新丸之内ビルディング&destination=東京駅&travelmode=walking)
 
 ## **18:50-19:45** 🍽️ 東京站晚餐（**55min**）
 
@@ -288,11 +294,13 @@
 
 ### 路線：東京站（東京駅）→ 錦糸町站（錦糸町駅）
 
-- **使用：** JR 總武線快速（JR 総武線快速）東京 → 錦糸町
-- **所需時間：** ✅ 已查證：8 分鐘（電車）
+- **推薦路線（最適合家庭）：** JR 總武線快速直達（往千葉方向）
+  - ✅ 已查證：Yahoo 路線 1，8 分鐘，¥167，無需轉乘，行駛里程 4.8km
+  - 直達車，最適合嬰兒車
 - **Buffer 時間：** 22 分鐘，避開晚間尖峰時段
 - **注意：** 選擇較空曠車廂，考慮嬰兒車通行
-- 🗺️ [Google Maps 導航 - 需實際查詢](https://www.google.com/maps/dir/東京駅/錦糸町駅?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=東京駅&destination=錦糸町駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=東京&to=錦糸町&y=2025&m=10&d=07&hh=19&m1=5&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **20:25-21:05** 🛍️ 阿卡醬購物（**40min**）
 
@@ -308,12 +316,14 @@
 
 ### 路線：錦糸町站（錦糸町駅）→ 四木站（四ツ木駅）
 
-- **使用：** 東京地鐵半蔵門線 + 京成押上線（錦糸町 → 押上 → 四ツ木）
-- **所需時間：** ✅ 已查證：約 15 分鐘（東京地鐵半蔵門線+京成押上線）
-- **步行至旅館：** ⚠️ 需確認實際時間（約 10 分鐘）
+- **推薦路線（最適合家庭）：** 東京 Metro 半蔵門線 → 京成押上線
+  - ✅ 已查證：Yahoo 路線 2，15 分鐘，¥345，轉乘 1 次，行駛里程 4.5km
+  - 錦糸町（半蔵門線）→ 押上（京成押上線）→ 四木
+- **步行至旅館：** ✅ 已查證：約 4-5 分鐘
 - **Buffer 時間：** 15 分鐘，符合 10 分鐘以上標準
 - **注意：** 此時段已過晚間尖峰時間，車廂較為舒適
-- 🗺️ [Google Maps 導航 - 需實際查詢](https://www.google.com/maps/dir/錦糸町駅/四ツ木駅?travelmode=transit)
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=錦糸町駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=錦糸町&to=四ツ木&y=2025&m=10&d=07&hh=21&m1=1&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## 💡 **注意事項**
 
@@ -332,12 +342,12 @@
 
 ### 路線：四木站（四ツ木駅）→ 押上站（押上駅）
 
-- **使用：** 京成押上線直達
-- **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
-- **Buffer 時間：** 25 分鐘，考慮早晨移動及嬰兒車通行
-
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/押上駅)  
-  *(需實際查詢)*
+- **推薦路線（最適合家庭）：** 京成押上線直達（往羽田機場方向）
+  - ✅ 已查證：Yahoo 路線 1，4 分鐘，¥167，無需轉乘，行駛里程 3.1km
+  - 直達車，最適合嬰兒車
+- **Buffer 時間：** 26 分鐘，考慮早晨移動及嬰兒車通行
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=押上駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=押上&y=2025&m=10&d=07&hh=09&m1=3&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **10:05-12:25** 🐧 墨田水族館（**2h20min**）
 
@@ -413,14 +423,14 @@
 
 ### 路線：押上站（押上駅）→ 四木站（四ツ木駅）
 
-- **使用：** 京成押上線
-- **所需時間：** ⚠️ 需確認實際車程時間（約 5 分鐘）
-- **Buffer 時間：** 25 分鐘，考慮用餐後移動及嬰兒車通行
-
-- 🗺️ [返回飯店導航](https://www.google.com/maps/dir/押上駅/四ツ木駅)  
-  *(需實際查詢)*
-- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25)  
-  ✅ 已查證：步行約 4-5 分鐘
+- **推薦路線（最適合家庭）：** 京成押上線直達（往印旛日本醫大方向）
+  - ✅ 已查證：Yahoo 路線 1，6 分鐘，¥167，無需轉乘，行駛里程 3.1km
+  - 直達車，最適合嬰兒車
+- **Buffer 時間：** 24 分鐘，考慮用餐後移動及嬰兒車通行
+- **步行至旅館：** ✅ 已查證：約 4-5 分鐘
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=押上駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=押上&to=四ツ木&y=2025&m=10&d=07&hh=18&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
+- 🗺️ [飯店步行路線](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25&travelmode=walking)
 
 回到 Tokyo Enjoy Hotel 休息
 
@@ -432,11 +442,12 @@
 ### 路線：四木站（四ツ木駅）→ 上野站（上野駅）
 
 - **推薦路線（最適合家庭）：** 京成押上線 → 東京 Metro 銀座線
-  - ✅ 已查證：Yahoo 路線 1，22 分鐘，¥453，轉乘 1 次，步行 6.8km
+  - ✅ 已查證：Yahoo 路線 1，22 分鐘，¥453，轉乘 1 次，行駛里程 6.8km
   - 步行少、轉乘少，最適合嬰兒車
 - **Buffer 時間：** 18 分鐘，考慮轉乘及嬰兒車移動
 - **配合動物園 09:30 開園時間**
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=上野駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=上野&y=2025&m=10&d=08&hh=08&m1=4&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **09:30-10:05** 🍞 上野早餐（**35min**）
 
@@ -478,11 +489,12 @@
 ### 路線：上野站（上野駅）→ 銀座站（銀座駅）
 
 - **推薦路線（最適合家庭）：** 東京 Metro 銀座線直達（往澀谷方向）
-  - ✅ 已查證：Yahoo 路線 1，11 分鐘，¥178，無需轉乘，步行 4.9km
+  - ✅ 已查證：Yahoo 路線 1，11 分鐘，¥178，無需轉乘，行駛里程 4.9km
   - 無需轉乘，最適合嬰兒車
 - **Buffer 時間：** 14 分鐘，考慮嬰兒車移動
 - **注意：** 避開午間時段，選擇較空曠車廂
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=上野駅&destination=銀座駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=上野&to=銀座&y=2025&m=10&d=08&hh=13&m1=3&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **14:00-16:55** 🧸 博品館 TOY PARK（**2h55min**）
 
@@ -532,11 +544,12 @@
 ### 路線：銀座站（銀座駅）→ 四木站（四ツ木駅）
 
 - **推薦路線（最適合家庭）：** 東京 Metro 日比谷線 → 都營淺草線
-  - ✅ 已查證：Yahoo 路線 1，28 分鐘，¥484，轉乘 1 次，步行 10.4km
+  - ✅ 已查證：Yahoo 路線 1，28 分鐘，¥484，轉乘 1 次，行駛里程 10.4km
   - 最快路線，步行距離適中
 - **Buffer 時間：** 13 分鐘，考慮嬰兒車移動
 - **步行至旅館：** ✅ 已查證：約 4-5 分鐘（距離約 300-400 公尺）
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=銀座駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=銀座&to=四ツ木&y=2025&m=10&d=08&hh=18&m1=0&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 - 🗺️ [飯店步行路線](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25&travelmode=walking)
 
 ## 銀座可選行程
@@ -554,17 +567,18 @@
 
 # D4 | 10/9 Thu 台場購物
 
-## **09:10-10:05** 🚇 前往台場（**55min**）
+## **09:05-10:10** 🚇 前往台場（**1h5min**）
 
 ### 四木站（四ツ木駅）→ 台場（台場駅）
 
-- **路線：** 京成押上線 → 轉乘至新橋站 → 百合海鷗線（ゆりかもめ）至台場
-- **所需時間：** ✅ 已查證：約 40 分鐘（四木→新橋 25 分鐘 + 新橋→台場 15 分鐘）
-- **避開上班尖峰時段**
-- **Buffer 時間：** 10 分鐘嬰兒車移動緩衝
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/台場駅) *(需實際查詢)*
+- **推薦路線（最適合家庭）：** JR 總武線 → 百合海鷗線
+  - ✅ 已查證：Yahoo 路線 1，51 分鐘，¥712，轉乘 1 次，行駛里程 18.7km
+  - 四木→新小岩（JR 總武線）→ 新橋（JR 橫須賀線）→ 台場（百合海鷗線）
+- **Buffer 時間：** 14 分鐘，考慮轉乘及嬰兒車移動
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=台場駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=台場&y=2025&m=10&d=09&hh=09&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
-## **10:10-12:05** 🛍️ DECKS Tokyo Beach（**1h55min**）
+## **10:15-12:05** 🛍️ DECKS Tokyo Beach（**1h50min**）
 
 **⚠️ 重要修正：** 唐吉訶德（ドン・キホーテ）位於 DiverCity，非 DECKS Tokyo Beach
 
@@ -630,21 +644,18 @@
 - **百元商店：** 日本旅遊小物、生活用品
 - **最後採買：** 土產、紀念品、零食
 
-## **17:40-18:20** 🚇 移動至秋葉原（**40min**）
+## **17:40-18:25** 🚇 移動至秋葉原（**45min**）
 
 ### 台場 → 秋葉原站
 
-- **台場站 → 新橋站（新橋駅）**
-  - 使用：百合海鷗線（ゆりかもめ線）
-  - 所需時間：✅ 已查證：約 15 分鐘
-  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/台場駅/新橋駅)
-- **新橋 → 秋葉原站（秋葉原駅）**  
-  - 使用：JR 山手線（JR 山手線）
-  - 所需時間：✅ 已查證：約 8 分鐘
-  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/新橋駅/秋葉原駅)
-- **Buffer 時間：** 17 分鐘，考慮轉乘及嬰兒車通行
+- **推薦路線（最適合家庭）：** 百合海鷗線 → JR 山手線
+  - ✅ 已查證：Yahoo 路線 2，33 分鐘，¥492，轉乘 1 次，行駛里程 11.7km
+  - 台場→新橋（百合海鷗線）→秋葉原（JR 山手線）
+- **Buffer 時間：** 12 分鐘，考慮轉乘及嬰兒車通行
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=台場駅&destination=秋葉原駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=台場&to=秋葉原&y=2025&m=10&d=09&hh=17&m1=4&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
-## **18:25-19:25** 🍽️ 晚餐時間（**1h**）
+## **18:30-19:25** 🍽️ 晚餐時間（**55min**）
 
 **秋葉原親子友善餐廳**  
 在返回旅館前用餐，避開交通尖峰時段
@@ -674,10 +685,12 @@
 
 ### 秋葉原站（秋葉原駅）→ 四木站（四ツ木駅）
 
-- **正確路線：** 需要轉乘至京成押上線  
-  - 秋葉原 → 押上站等轉乘點 → 京成押上線 → 四木
-  - **總時間：** ✅ 已查證：約 30 分鐘（秋葉原→新日本橋→押上→四木）
-  - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/秋葉原駅/四ツ木駅) *(需實際查詢)*
+- **推薦路線（最適合家庭）：** JR 總武線快速 → 京成押上線
+  - ✅ 已查證：Yahoo 路線 1，25 分鐘，¥453，轉乘 1 次，行駛里程 9.1km
+  - 秋葉原→新小岩（JR 總武線快速）→四木（京成押上線）
+- **Buffer 時間：** 15 分鐘，考慮轉乘及嬰兒車通行
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=秋葉原駅&destination=四ツ木駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=秋葉原&to=四ツ木&y=2025&m=10&d=09&hh=20&m1=1&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 - 步行約 4-5 分鐘至 Tokyo Enjoy Hotel ✅ 已查證
 - 🗺️ [飯店步行路線](https://www.google.com/maps/dir/四ツ木駅/日本〒124-0011+Tokyo,+Katsushika+City,+Yotsugi,+1+Chome−16−25)
@@ -723,13 +736,12 @@
 
 **Tokyo Enjoy Hotel → 上野站（上野駅）**  
 
-- **推薦路線：** 四木 → 押上 → 淺草 → 上野
-  - 京成押上線：四木 → 押上（約 5 分鐘）
-  - 都營淺草線：押上 → 淺草（約 2 分鐘）
-  - 東京 Metro 銀座線：淺草 → 上野（約 5 分鐘）
-- **所需時間：** ✅ 已查證：約 30-40 分鐘（含轉乘時間）
-- **Buffer 時間：** 20 分鐘，考慮轉乘及行李移動
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/四ツ木駅/錦糸町駅/上野駅) *(需實際查詢)*
+- **推薦路線（最適合家庭）：** 京成押上線 → 東京 Metro 銀座線
+  - ✅ 已查證：Yahoo 路線 1，25 分鐘，¥453，轉乘 1 次，行駛里程 6.8km
+  - 最短時間、最少轉乘，最適合帶行李的家庭
+- **Buffer 時間：** 35 分鐘，考慮 Check-out 及轉乘及行李移動
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=上野駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=上野&y=2025&m=10&d=10&hh=08&m1=0&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **09:05-09:30** 🧳 上野站寄放行李（**25min**）
 
@@ -740,9 +752,13 @@
 
 **上野站（上野駅）→ 輕井澤站（輕井沢駅）**  
 
-- 使用：北陸新幹線（北陸新幹線）「はくたか」或「あさま」
-- **所需時間：** 約 70 分鐘 *（✅ 已查證，正常範圍 55-70 分鐘）*
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/上野駅/輕井沢駅) *(需實際查詢)*
+- **推薦路線（最適合家庭）：** 北陸新幹線直達
+  - ✅ 已查證：Yahoo 路線 1，54 分鐘，¥5,280，無需轉乘
+  - 使用：北陸新幹線「はくたか Hakutaka 557」
+  - 直達車，最適合帶孩子的家庭
+- **Buffer 時間：** 31 分鐘，考慮寄放行李及上車時間
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=上野駅&destination=輕井沢駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=上野&to=輕井沢&y=2025&m=10&d=10&hh=09&m1=3&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **11:05-11:30** 🏨 抵達輕井澤（**25min**）
 
@@ -1118,12 +1134,14 @@ Check-in + 寄放行李
 ### 輕井澤優雅酒店 → 中輕井澤站（中軽井沢駅）→ 星野區域
 
 - **路線**: 飯店 → 輕井澤站（步行 15 分鐘）→ 中輕井澤站 → 星野度假區
-- **交通方式**: 信濃鐵道（約 4 分鐘）✅ 已查證 + 星野度假區免費接駁巴士
+- **交通方式**: 信濃鐵道 + 星野度假區免費接駁巴士
+  - ✅ 已查證：Yahoo 路線 2，4 分鐘，¥230，無需轉乘，行駛里程 4km
 - **所需時間**: ✅ 已查證：約 40-45 分鐘（含轉乘及等車時間）
 - **接駁巴士**: ⚠️ 需確認 2025 年時刻表，從中輕井澤站南口出發
 - **特別提醒**: 接駁巴士班次有限，請預先查詢官方時刻表
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/日本〒389-0102+Nagano,+Kitasaku+District,+Karuizawa,+野沢原1314-6/中軽井沢駅/星野度假區)
   ⚠️ 需確認實際路線
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=軽井沢&to=中軽井沢&y=2025&m=10&d=12&hh=09&m1=3&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## ⛪ **10:20-11:15** 教會建築巡禮（**55min**）  
 
@@ -1173,10 +1191,13 @@ Check-in + 寄放行李
 ### 星野區域 → 中輕井澤站（中軽井沢駅）→ 輕井澤站（軽井沢駅）
 
 - **路線**: 星野度假區接駁巴士 → 中輕井澤站 → 信濃鐵道 → 輕井澤站
-- **交通時間**: 信濃鐵道約 4 分鐘 ✅ 已查證，總時間約 25 分鐘
+- **交通時間**:
+  - ✅ 已查證：Yahoo 路線 3，6 分鐘，¥230，無需轉乘，行駛里程 4km
+  - 總時間約 25 分鐘（含接駁巴士）
 - **接駁巴士**: ⚠️ 需確認時刻表和等車時間
 - 🛍️ 輕井澤王子 Outlet 就在輕井澤站南口旁，步行約 3 分鐘 ✅ 已查證：官方網站
 - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/星野度假區/中軽井沢駅/軽井沢駅/軽井沢・プリンスショッピングプラザ)（需實際查詢）
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=中軽井沢&to=軽井沢&y=2025&m=10&d=12&hh=13&m1=2&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## 🛍️ **13:50-17:30** Outlet 購物（**3h40min**）  
 
@@ -1268,11 +1289,14 @@ Check-in + 寄放行李
 
 ### 輕井澤站 (軽井沢駅) → 上野站 (上野駅)
 
-- 使用：北陸新幹線 (北陸新幹線) 「はくたか」或「あさま」
-- **所需時間**: 約 70 分鐘 ✅ 已查證：正常範圍 54-72 分鐘
+- **推薦路線（最適合家庭）：** 北陸新幹線直達
+  - ✅ 已查證：Yahoo 路線 1，59 分鐘，¥5,280，無需轉乘，行駛里程 143.2km
+  - 使用：JR 新幹線「あさま Asama 642」
+  - 直達車，最適合帶孩子的家庭
+- **Buffer 時間：** 10 分鐘，考量從 Outlet 領取行李後移動至車站
 - 🎧 新幹線上可讓小朋友休息或欣賞沿途風景
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/軽井沢駅/上野駅?travelmode=transit)
-  ✅ 已查證時刻表
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=軽井沢駅&destination=上野駅&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=軽井沢&to=上野&y=2025&m=10&d=13&hh=14&m1=0&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## **15:20-16:20** 🧳 京成上野站領取行李 + 休息（**1h**）
 
@@ -1296,12 +1320,16 @@ Check-in + 寄放行李
 
 ## 🚄 **17:00-17:44** 前往機場（**44min**）
 
-路線: **上野站（上野駅）→ 成田機場第一航廈（成田空港）**  
+### 上野站（上野駅）→ 成田機場第一航廈（成田空港）
 
-- 使用：京成 Skyliner（京成スカイライナー）17:00 班次
-- **所需時間**: 約 41-46 分鐘 ✅ 已查證
-- **班次**: 約每 20 分鐘一班，05:40-20:20 運行
-- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/上野駅/成田国際空港) ✅ 已查證時刻表
+- **推薦路線（最適合家庭）：** 京成 Skyliner 直達
+  - ✅ 已查證：Yahoo 路線 1，60 分鐘，¥2,567，無需轉乘，行駛里程 63.1km
+  - 使用：京成 Skyliner 特急
+  - 直達、最快速，最適合帶行李的家庭
+- **Buffer 時間：** 30 分鐘，考量領取行李及上車時間
+- **班次：** 約每 20 分鐘一班，05:40-20:20 運行
+- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=上野駅&destination=成田国際空港&travelmode=transit)
+- 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=上野&to=成田空港&y=2025&m=10&d=13&hh=17&m1=0&m2=0&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
 
 ## 🛂 **17:49-20:00** 機場手續（**2h11min**）  
 
