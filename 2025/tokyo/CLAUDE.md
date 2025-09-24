@@ -54,23 +54,24 @@
   - 建議 buffer：10-15 分鐘（含嬰兒車移動）
   - 違反者提醒是否重新安排時程
 - **路線規劃詳細要求：**
-  - 必須提供：轉乘站 + 地鐵線名/新幹線名 + Google Maps 連結
   - 優先原則：**最短步行時間**（考慮推車移動）
-  - **官方參考資料：**
-    - [Google Maps](https://maps.google.com)
-    - [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
-    - [京成電鐵](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
-    - [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
-    - [玩具王國巴士時刻表-去](https://www.seibubus.co.jp/docs/rosen/karuizawa/eki.pdf)
-    - [玩具王國巴士時刻表-回](https://www.seibubus.co.jp/docs/rosen/karuizawa/onsen.pdf)
+  - **官方交通資料（依查詢優先順序）：**
+    1. [Yahoo 路線情報](https://transit.yahoo.co.jp/) - 主要查詢工具
+    2. [Google Maps](https://maps.google.com) - 輔助確認
+    3. 輕井澤：
+       - [交通總覽](https://www.karuizawa-on.com/)
+       - [東急ハーヴェスト旧軽井沢 - 旧碓氷峠見晴台](https://www.karuizawa-on.com/kkbc/)
+    4. 專線資訊：
+       - [京成電鐵 Skyliner](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
+       - [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
 
 ### 3. **住宿資訊**
 
 - **東京期間：** 10/06-10/10｜Tokyo Enjoy Hotel
-  - 地址：日本〒124-0011 Tokyo, Katsushika City, Yotsugi, 1 Chome−16−25
+  - 地址：「東京都葛飾区四つ木1-16-25」
   - 最近車站：四木站（京成押上線）
 - **輕井澤期間：** 10/10-10/13｜Hotel Karuizawa Elegance
-  - 地址：日本〒389-0102 Nagano, Kitasaku District, Karuizawa, 野沢原1314-6 ホテル軽井沢エレガンス内
+  - 地址：「長野県北佐久郡 軽井沢町大字軽井沢1314-29」
   - 最近車站：輕井澤站
 
 ### 4. **景點資訊**

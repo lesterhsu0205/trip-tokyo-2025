@@ -45,7 +45,7 @@ code in this repository.
   - **正確範例：** 16:00-16:30 → 16:35-17:05（間隔 5 分鐘）✅
   - **說明：** 此規則確保行程間有足夠緩衝時間，避免行程過於緊湊
 - [ ] **3. 行程停留時間顯示及合理性**：行程停留時間必須合理，且附註在每段行程後面
-- [ ] **4. 交通時間正確性**：Google Maps 導航的時間一定要再次驗證是否正確
+- [ ] **4. 交通資訊正確性**：再次 fetch 既有的 [Google Maps 導航] 和 [Yahoo 路線查詢] 兩者連結來驗證該行程交通資訊
 - [ ] **5. 交通銜接時間**：交通銜接時間必須充足（至少 10 分鐘 buffer）
 - [ ] **6. 購票及預定等整理**：使用 Grep 搜尋 todo.md 相關項目（購票、預訂），避免完整讀取文件
 - [ ] **7. 購物地點及其他行程中要點整理**：使用 Grep 搜尋 remark.md 相關項目，避免完整讀取文件
@@ -104,36 +104,44 @@ code in this repository.
          - 範例：同時查詢「A→B」「B→C」「C→D」所有路線
          - 效益：總時間 = 最慢的一次查詢（而非累加）
          - **查詢方法（依優先順序）：**
-           - 優先：`WebFetch https://transit.yahoo.co.jp/search/result?from=[起點]&to=[終點]&y=[年]&m=[月]&d=[日]&hh=[時]&m1=[分鐘十位數]&m2=[分鐘個位數]&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0` - 完整路線資訊
-             - 時間參數範例：2025/10/06 17:01 → `&y=2025&m=10&d=06&hh=17&m1=0&m2=1`
-             - 固定參數說明：`type=1`（出發時間）、`ticket=ic`（IC 卡）、其他為顯示選項
+           - **[起點]與[終點]地址格式要求：**
+             - **Yahoo Transit 僅接受日文地址或日文地標名稱**
+             - 住宿地址：使用專案 CLAUDE.md 中標註的日文地址（如「長野県北佐久郡軽井沢町大字軽井沢1314-29」）
+             - 景點地址：使用日文地標名稱或完整日文地址
+             - ❌ 錯誤：使用英文地址或混合格式
+             - ✅ 正確：使用完整日文地址或日文地標名稱
+           - 優先：`WebFetch https://transit.yahoo.co.jp/search/result?from=[起點]&to=[終點]&y=[年]&m=[月]&d=[日]&hh=[時]&m1=[分鐘十位數]&m2=[分鐘個位數]&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0`
+             - **時間參數格式：** 2025/10/06 17:01 → `&y=2025&m=10&d=06&hh=17&m1=0&m2=1`
            - 備用：`WebSearch "[起點] [終點] 乗換"` - Google 搜尋（僅摘要，需再查證）
+             - ⚠️ 若 WebFetch 失敗，改用此方法
+             - 搜尋後必須標註「⚠️ 需再次查證實際路線」
       2. **多路線比較**（transit 模式必做）：
          - 檢視前 2-3 條路線選項
          - 比較：總時間、轉乘次數、步行距離
-         - 選擇標準：少步行 > 少轉乘 > 時間短（家庭出遊優先）
+         - **選擇標準（家庭出遊優先順序）：**
+           1. 步行距離 < 1km
+           2. 轉乘次數 ≤ 3 次
+           3. 總時間最短
+           4. 有電梯/手扶梯優先（推車友善）
          - 記錄所選路線特徵（如「路線 2：經由 XX 線，步行較少」）
-      3. **標註結果**：
-         - 格式見下方 **查證標註要求**
-         - 實際時間 + 路線詳情 + Google Maps URL + Yahoo 路線 URL
-           - **Yahoo 路線資訊格式**：
-             - 必須標註：「Yahoo 路線 [編號]，[時間] 分鐘，¥[費用]，轉乘 [次數] 次，行駛里程 [距離]km」
-             - 注意：「行駛里程」而非「步行」
-           - Google Maps URL 建立方式如下：
+      3. **標注下列查詢結果**：
+         - **查證標註要求**
+         - **Yahoo 路線資訊格式**：
+           - 必須標註：「Yahoo 路線 [編號]，[時間] 分鐘，¥[費用]，轉乘 [次數] 次，行駛里程 [距離]km」
+           - 注意：「行駛里程」而非「步行」
+         - **Yahoo 路線 URL 標註**：
+           - 格式：`- 🚃 [Yahoo 路線查詢](完整的 Yahoo Transit URL)`
+           - 範例：
+             - 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=台場&y=2025&m=10&d=09&hh=09&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)  
+         - **Google Maps URL 標注**：
+           - 建構方式：
              1. **判斷 travelmode**（根據行程情境自動選擇）：
                 - `transit`：城市間移動、跨區域移動、明確提到電車/地鐵/巴士
                 - `walking`：距離 < 1km、同一區域內、景點間步行
                 - `driving`：郊區景點、租車行程、明確提到開車
              2. **建構 Google Maps URL**：
                 - 格式：`https://www.google.com/maps/dir/?api=1&origin=[起點]&destination=[終點]&travelmode=[模式]`
-           - **Yahoo 路線 URL 標註**：
-             - 必須在 Google Maps 導航連結下方加上 Yahoo 路線連結
-             - 格式：`- 🚃 [Yahoo 路線查詢](完整的 Yahoo Transit URL)`
-             - 範例：
-               ```markdown
-               - 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=台場駅&travelmode=transit)
-               - 🚃 [Yahoo 路線查詢](https://transit.yahoo.co.jp/search/result?from=四ツ木&to=台場&y=2025&m=10&d=09&hh=09&m1=0&m2=5&type=1&ticket=ic&expkind=1&userpass=1&ws=3&s=0&al=0&shin=1&ex=1&hb=1&lb=1&sr=0)
-               ```
+                - 範例：- 🗺️ [Google Maps 導航](https://www.google.com/maps/dir/?api=1&origin=四ツ木駅&destination=台場駅&travelmode=transit)
   - **票價資訊：** 門票、交通費
   - **特殊限制：** 年齡限制、推車限制、預約需求
 - ⚠️ **建議使用**：餐廳評價、景點最新資訊
@@ -145,13 +153,21 @@ code in this repository.
 
 ### 查證標註要求
 
-- 查證成功：「✅ 已查證：[來源]」
-- 查證失敗：「⚠️ 需確認實際時間/資訊」+ 替代查證方式
+- 查證成功：「✅ 已查證：[資訊來源]」
+- 查證失敗：「⚠️ 需確認實際時間/資訊」
 
-### 查證標準範例
+### 查證標註範例
 
-- 正確：「✅ 已查證：Google Maps 顯示 15 分鐘」
-- 錯誤：「大約 15 分鐘左右」
+✅ **正確範例：**
+
+- 「✅ 已查證：Yahoo 路線 2，35 分鐘，¥450，轉乘 1 次」
+- 「✅ 已查證：Google Maps 顯示步行 8 分鐘」
+
+❌ **錯誤範例：**
+
+- 「大約 30 分鐘左右」
+- 「應該 ¥400 上下」
+- 「轉車一兩次」
 
 ### Grep 使用指引（Token 優化）
 
