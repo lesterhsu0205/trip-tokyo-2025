@@ -17,7 +17,7 @@
 ## 住宿相關
 
 - [ ] 確認 Tokyo Enjoy Hotel 入住資訊
-- [ ] 確認輕井澤優雅酒店入住資訊
+- [ ] 確認 Hotel Karuizawa Elegance 入住資訊
 - [ ] 準備住宿確認書 (紙本或電子版)
 - [ ] 確認飯店地址及 Google Maps 導航路線
 
