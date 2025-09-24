@@ -70,7 +70,8 @@
 ##### **交通資訊查詢結果格式**
 
 - **Yahoo Transit**
-  - 必須標註：「Yahoo Transit [編號]，[時間] 分鐘，¥[費用]，轉乘 [次數] 次，行駛里程 [距離]km」
+  - 必須標註：「Yahoo Transit [編號]，[時間] 分鐘，¥[費用]，轉乘 [次數] 次，行駛里程 [距離]km，[選擇理由]」
+  - **選擇理由範例**：步行最少/最快/最省錢/推車友善
   - 注意：「行駛里程」而非「步行」
 - **Yahoo Transit URL**：[參考](#yahoo-transit-url)
 - **Google Maps URL**：[參考](#google-maps-url)
