@@ -123,11 +123,17 @@
   - 地址：「長野県北佐久郡 軽井沢町大字軽井沢1314-29」
   - 最近車站：輕井澤站
 
-### 4. **景點資訊**
+### 4. **景點/旅遊資訊**
 
 - **東京期間**： 10/06-10/10
+  - [水上巴士](https://www.tokyo-park.or.jp/water/waterbus/)
+  - [銀座美食推薦必吃餐廳：平價午餐找迴轉壽司；和牛燒肉、壽喜燒當晚餐最滿足](https://tokyo.letsgojp.com/archives/653020/)
+  - [【超嚴選】一篇掌握！銀座必去景點15選](https://www.gltjp.com/zh-hant/article/item/20831/)
+  - [銀座逛街一日遊這樣玩！必逛百貨、無印良品、UNIQLO全攻略](https://bobbyfun.tw/ginza/)
+  - [東京銀座購物攻略！3COINS、Loft百元商品推薦＋私藏餐廳大公開](https://today.line.me/tw/v3/article/GgvZ3VY)
 
 - **輕井澤期間**： 10/10-10/13
+  - [軽井沢キッズパーク(KIDSPARK)](https://www.karuizawa-psp.jp/kidspark/)
   - [Taliesin 塔列辛之鹽澤湖](https://choyce.tw/taliesin/)
   - [湯川公園](https://campaigns.ohpama.com/wwpkg/summertour/travel-detail.php?id=15)
 
