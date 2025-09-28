@@ -8,7 +8,7 @@
   - [ ] **D5 上野 → 輕井澤** - **09:30-11:00** - はくたか/あさま號（約70分鐘）
   - [ ] **D8 輕井澤 → 上野** - **14:00-15:10** - はくたか/あさま號回程新幹線票券
 - [ ] **確認京成電鐵 Access Express / Skyliner 時刻表** - **D1 14:00 出發** - 成田機場第1航廈→青砥→四木站
-- [ ] **D8 京成上野→成田機場 Skyliner 預訂** - **17:00 出發** - 約 41-46 分鐘，確認座位訂位
+- [ ] **D8 京成上野→成田機場 [Skyliner](https://skyliner.ec.keisei.co.jp/member/EAA01/GEAA01010.xhtml) 預訂** - **17:00 出發** - 約 41-46 分鐘，確認座位訂位
 - [ ] 下載並研讀官方交通時程表資訊
   - [ ] [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
   - [ ] [京成電鐵時刻表](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
