@@ -13,7 +13,7 @@
 ├── README.md             # 主要行程檔案 (自動合併版本)
 ├── CLAUDE.md             # Claude Code 子專案指引
 ├── todo.md               # 行前 TODO 清單
-├── remark.md             # 行程中要點
+├── remark.md             # 購物要點
 ├── D1.md                 # 各日詳細行程
 ├── D2.md
 ├── ...
@@ -41,7 +41,8 @@
   - 去程：長榮航空 BR184｜10/6 07:55（TPE terminal 2）→ 12:25（NRT terminal 1）
   - 回程：長榮航空 BR195｜10/13 20:40（NRT terminal 1）→ 23:20（TPE terminal 2）
 - **當地交通原則**：
-  - 主要方式：大眾運輸 + iPhone 西瓜卡
+  - 東京：大眾運輸 + iPhone 西瓜卡
+  - 輕井澤：租車自駕
   - **迴避尖峰時段**：
     - 上班尖峰：07:30-09:30
     - 下班尖峰：18:00-20:00
