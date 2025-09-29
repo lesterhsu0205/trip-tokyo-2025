@@ -165,7 +165,7 @@
    - [淺草-台場水上巴士](https://www.tokyo-park.or.jp/water/waterbus/)
 4. 輕井澤：
    - [交通總覽](https://www.karuizawa-on.com/)
-   - [東急ハーヴェスト旧軽井沢 - 旧碓氷峠見晴台](https://www.karuizawa-on.com/kkbc/)
+   - [東急ハーヴェスト旧軽井沢 - 碓氷峠見晴台](https://www.karuizawa-on.com/kkbc/)
 5. 專線資訊：
    - [京成電鐵 Skyliner](https://www.keisei.co.jp/keisei/tetudou/skyliner/tc/traffic/skyliner.php)
    - [北陸新幹線](https://www.westjr.co.jp/global/tc/train/shinkansen/hokuriku-shinkansen/index.html)
