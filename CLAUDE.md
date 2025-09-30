@@ -41,7 +41,6 @@ code in this repository.
   - 針對當日全部行程內的下列 URL 執行 WebFetch 取得最新資料比對驗證：
     - [子專案](#2025tokyo---東京輕井澤行程)/[Google Maps URL](./2025/tokyo/CLAUDE.md#google-maps-url)
     - [子專案](#2025tokyo---東京輕井澤行程)/[Yahoo Transit URL](./2025/tokyo/CLAUDE.md#yahoo-路線-url)
-    - [子專案](#2025tokyo---東京輕井澤行程)/[NAVITIME URL](./2025/tokyo/CLAUDE.md#navitime-url)
 
 - [ ] **2. 遞迴檢查當日行程時序**
   - 依序檢查下列 4 個子項目：
