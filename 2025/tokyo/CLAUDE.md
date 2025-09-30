@@ -129,9 +129,8 @@
 
 ##### **自駕資訊查詢標準 Prompt**
 
-使用以下標準 prompt 向 NAVITIME WebFetch 查詢自駕路線資訊：
+```使用以下標準 prompt 向 NAVITIME WebFetch 查詢自駕路線資訊
 
-```
 請提供從 [起點] 到 [終點] 的自駕路線資訊，包括：
 
 **最佳路線（含收費道路）**：
