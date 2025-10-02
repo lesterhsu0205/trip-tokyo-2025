@@ -31,10 +31,14 @@
   - **3coins**：生活雜貨 - ✅ 銀座等特定分店提供免稅
   - **UNIQLO 旗艦店**：服飾 - ✅ 所有店舖提供免稅服務
   - **寶可夢咖啡廳+寶可夢中心 DX 店**：主題商品 - ✅ 寶可夢中心提供免稅
-- **D4 台場購物日**： 台場 AQUA CITY、DiverCity、DECKS Tokyo Beach 嬰兒用品採購 - ✅ 大型購物中心群提供免稅服務
-  - **DECKS Tokyo Beach 西松屋台場店** - **10:10-12:10** - ✅ 已查證：11:00-20:00（平日），專業嬰兒用品 - ✅ 提供免稅服務
-  - **DiverCity Kirakira Donki + DAISO** - **13:10-15:10** - ✅ 已查證：11:00-20:00（平日），特色唐吉訶德 + 百元商品 - ✅ 大型店舖提供免稅
-  - **AQUA CITY Air BIC CAMERA** - **15:10-17:10** - ✅ 已查證：11:00-21:00，電器用品、相機、旅遊配件 - ✅ 大型電器連鎖店提供免稅
+- **D4 台場購物日**： 台場 AQUA CITY、DiverCity、DECKS Tokyo Beach 嬰兒用品採購  
+  ✅ 大型購物中心群提供免稅服務
+  - **DECKS Tokyo Beach 西松屋台場店** - **10:10-12:10**  
+    ✅ 已查證：11:00-20:00（平日），專業嬰兒用品 - ✅ 提供免稅服務
+  - **DiverCity Kirakira Donki + DAISO** - **13:10-15:10**  
+    ✅ 已查證：11:00-20:00（平日），特色唐吉訶德 + 百元商品 - ✅ 大型店舖提供免稅
+  - **AQUA CITY Air BIC CAMERA** - **15:10-17:10**  
+    ✅ 已查證：11:00-21:00，電器用品、相機、旅遊配件 - ✅ 大型電器連鎖店提供免稅
   - **台場最後購物** - **19:35-20:00** - 土產、紀念品、零食 - ✅ 台場購物中心提供免稅服務
 
 ## 台場購物整理（D4 詳細資訊）
@@ -76,7 +80,8 @@
 
 - **西松屋台場店**： 專業嬰兒用品連鎖店，品項最齊全，價格實惠 - ✅ 提供免稅服務
 - **AQUA CITY 嬰兒用品店**： 台場最大的嬰兒用品專賣店 - ✅ 大型購物中心提供免稅
-- **[BIC CAMERA](https://bobbyfun.tw/2024-01-25-2807/) 嬰兒用品區**： 電子產品和嬰兒用品一站購足 - ✅ 大型電器連鎖店提供免稅
+- **[BIC CAMERA](https://bobbyfun.tw/2024-01-25-2807/) 嬰兒用品區**
+  電子產品和嬰兒用品一站購足 - ✅ 大型電器連鎖店提供免稅
 - **Kirakira Donki（DiverCity 內）**： 化妝品、糖果、社交媒體熱門商品 - ✅ 大型店舖提供免稅
 
 ## 輕井澤購物整理
@@ -146,50 +151,70 @@
 
 ![alt text](image-1.png)
 
-#### [JCB 優惠](https://www.specialoffers.jcb/zh-tw/campaign/d/east-asia/japan/?c=retail_store)
+#### [JCB 優惠](https://www.specialoffers.jcb/zh-tw/campaign/d/east-asia/japan/?c=retail_store) ✅ 已查證：JCB官網 2025年
 
-#### [聯邦吉鶴](https://activity.ubot.com.tw/2025JiHoCard-Japan/index.htm)
+- **官方優惠**：44 種不同優惠方案，涵蓋交通、餐廳、購物等
+- **交通優惠**：2026/06/30 前，JCB 感應支付搭乘指定大眾交通，最高享 50% 事後現金回饋
+- **適用範圍**：東京、大阪、北海道、京都、福岡等城市
 
-- **7%**=日幣消費「2.5%」(無上限)+QUICPay「1.5%」(1000/月)+活動「3%」（活動期間上限600）
+#### [聯邦吉鶴](https://activity.ubot.com.tw/2025JiHoCard-Japan/index.htm) ✅ 已查證：聯邦銀行官網 2025年
+
+- **7%**=日幣消費「2.5%」(無上限)+QuicPay「1.5%」(1000/月)+活動「3%」（活動期間上限600）
   - 消費上限 NTD66,666/JPY322,303/月，NTD20,000/JPY96,691/季
-- 指定商店：**QUICPay（apple pay）**、7-ELEVEN、FamilyMart、LAWSON、永旺、三越、高島屋、BIC CAMERA、愛電王、多慶屋
+- 指定商店：**QuicPay（Apple Pay）**、7-ELEVEN、FamilyMart、LAWSON、永旺、三越、高島屋、BIC CAMERA、愛電王、多慶屋
+- **交通卡優惠**：免收 1.5% 國外交易服務費（Suica、PASMO、ICOCA 儲值）
 
-#### [玉山熊本熊](https://event.esunbank.com.tw/credit/kumamon-card/index.html)
+#### [玉山熊本熊](https://event.esunbank.com.tw/credit/kumamon-card/index.html) ✅ 已查證：玉山銀行官網 2025年
 
-- **8.5%**=日本消費「2.5%」（無上限）+指定日本商店加碼「6%」（500/月）
-  - 消費上限 NTD8,333/JPY40,356/月
-- 指定商店：NIPPON RENT-A-CAR、BIC CAMERA、Yodobashi、松本清、唐吉軻德、大國藥妝、無印、niko and…、3 coins、DOUTOR Coffee、Fuglen、松屋、SUKIYA、勝烈亭、敘敘苑、牛角、shake shack、壽司郎、藏壽司
-- **5%(paypay by wallet)**= 3.5%（100/季）+1.5% 免稅
+- **8.5%**=日本消費「2.5%」（無上限）+ 指定日本商店加碼「6%」（500/月）
+- **消費上限**：NTD8,333/JPY40,356/月
+- **指定商店類別** ✅ 已查證最新清單：
+  - **交通**：SUICA、PASMO、ICOCA 卡加值
+  - **旅遊**：JAL、JR Rail、樂天旅遊、東橫INN、APA酒店、TOYOTA Rent a Car、Times CAR RENTAL、NIPPON RENT-A-CAR
+  - **零售**：BIC CAMERA、Yodobashi、松本清、唐吉訶德、大國藥妝、無印良品、3COINS、Niko and...
+  - **餐飲**：DOUTOR Coffee、Fuglen、松屋、SUKIYA、勝烈亭、敘敘苑、牛角、shake shack、壽司郎、藏壽司
+  - **娛樂**：東京迪士尼樂園、日本環球影城、豪斯登堡、富士急樂園、東京華納兄弟哈利波特影城、名古屋樂高樂園、橫濱八景島海洋樂園
+- **PayPay 優惠**：使用玉山 Wallet 綁定於日本 PayPay 消費，最高享 5% 回饋 = 3.5%（100/季）+1.5% 免稅
   - 消費上限 NTD2,857/JPY13,813/季
 
-#### [富邦J卡](https://www.fubon.com/banking/Personal/credit_card/all_card/omiyage/omiyage.htm)
+#### [富邦J卡](https://www.fubon.com/banking/Personal/credit_card/all_card/omiyage/omiyage.htm) ✅ 已查證：富邦銀行官網 2025年
 
 - **10%**=日本消費「3%」（無上限）+ 交通卡加碼「7%」（需單筆滿2000, 200/季）
   - 消費上限 NTD2,857/JPY13,813/季
 - **6%**=日本消費「3%」（無上限）+ 日韓加碼「3%」
   - 消費上限 NTD33,333/JPY161,152/季
+- **日本伴手禮兌換**
+  - 日本行程累積消費滿 1,000 日圓，正卡人本人即可於指定地點出示【J卡】與【日本伴手禮兌換券】免費兌換日本伴手禮
+  - ✅ 關東淺草松屋百貨退稅服務台 位於 3 樓免稅櫃台
 
 ![alt text](image.png)
 
-#### 使用策略
+#### 使用策略 ✅ 已依查證結果優化
 
-- 機場免稅店：[JCB QRcode](#jcb-優惠)
-- 藥妝：[JCB QRcode](#jcb-優惠)
-- 西瓜儲值（by apple pay）
-  1. [玉山熊本熊](#玉山熊本熊)
-  2. [富邦J](#富邦j卡)
-  3. [聯邦吉鶴](#聯邦吉鶴)：免收 1.5% 國外交易服務費
+##### 🥇 優先推薦順序（依實際回饋計算）
+
+- **機場免稅店**：[JCB 優惠](#jcb-優惠--已查證jcb官網-2025年)（官方 44 種優惠方案）
+- **藥妝店**（松本清等）：
+  1. [玉山熊本熊](#玉山熊本熊--已查證玉山銀行官網-2025年)（8.5% 指定商店）
+  2. [JCB 優惠](#jcb-優惠--已查證jcb官網-2025年)
+- **交通卡儲值**（Apple Pay）：
+  1. [玉山熊本熊](#玉山熊本熊--已查證玉山銀行官網-2025年)（8.5% 指定商店）
+  2. [富邦J](#富邦j卡--已查證富邦銀行官網-2025年)（最高 10% 含交通卡加碼）
+  
+  3. [聯邦吉鶴](#聯邦吉鶴--已查證聯邦銀行官網-2025年)（免收 1.5% 國外交易服務費）
 - BIC CAMERA
-  1. [玉山熊本熊](#玉山熊本熊)
-     - [**BIC CAMERA** 使用優惠券再享電器**7%**藥妝**5%**](https://event.esunbank.com.tw/credit/1120427bic/images/BicCamera-coupon.jpg)
-  2. [聯邦吉鶴](#聯邦吉鶴)
+  1. [玉山熊本熊](#玉山熊本熊--已查證玉山銀行官網-2025年)
+     - **BIC CAMERA 優惠券** ✅ 已查證：玉山銀行官網 最高享 25.5% 優惠
+     - [需出示優惠券電器**7%**藥妝**5%**](https://event.esunbank.com.tw/credit/1120427bic/images/BicCamera-coupon.jpg)
+     - **疊加回饋**：免稅 10% + 優惠券（電器） 7% + 信用卡 2.5% + 指定商店 6% = 最高 25.5% 回饋
+  2. [聯邦吉鶴](#聯邦吉鶴--已查證聯邦銀行官網-2025年)
 - 多慶屋
-  1. [聯邦吉鶴](#聯邦吉鶴)
-     - [**多慶屋**消費滿5000提供條碼再享**10%免稅+12%折扣**](https://activity.ubot.com.tw/aws_act/2025/2025TAKEYA/index.htm)
+  1. [聯邦吉鶴](#聯邦吉鶴--已查證聯邦銀行官網-2025年)
+     - **多慶屋優惠** ✅ 已查證：聯邦銀行官網 消費滿 5000 提供條碼再享 **10% 免稅 +12% 折扣**
 - 日本銀座樂天免稅店
-  1. [富邦J](#富邦j卡)
+  1. [富邦J](#富邦j卡--已查證富邦銀行官網-2025年)
      - 優惠碼 滿 10000 折 1000, 20000 折 2000
 - 完美行(每張卡都一樣)
-  1. [聯邦吉鶴](#聯邦吉鶴)，刷卡並使用以下代碼
+  1. [聯邦吉鶴](#聯邦吉鶴--已查證聯邦銀行官網-2025年)，刷卡並使用以下代碼
      - 滿15000：NJ3UBF
      - 滿60000：KSN533
