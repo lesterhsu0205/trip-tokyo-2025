@@ -24,13 +24,14 @@
 
 
 
+
 ## 🔄 最後更新時間
 
-✅ 2025-10-02 01:19:42 (UTC+8)
+✅ 2025-10-02 17:10:02 (UTC+8)
 
 ---
 <!-- 以下為完整行程內容，由 GitHub Actions 自動合併生成 -->
-<!-- 合併時間: 2025-10-02 01:19:42 (UTC+8) -->
+<!-- 合併時間: 2025-10-02 17:10:02 (UTC+8) -->
 
 
 # D1 | 10/6 Mon 淺草購物 + 夜景
@@ -1394,17 +1395,61 @@
 - **輕井澤王子 Outlet**：✅ 大型 Outlet 購物中心
 - **成田機場免稅店**：✅ 機場免稅店
 
-### ⚠️ 一般不提供免稅服務的商家
-
-- **小型餐廳**：珈琲館旦念亭、詩紀厸廊峰、日本料理 かつ一、沢村等
-- **小型店舖**：Seria、3coins 小型分店
-- **傳統商店街**：仲見世通部分小店舖、舊輕井澤銀座通小店
-- **小型咖啡店**：丸山咖啡等精品咖啡店
-- **小型精品店**：榆樹街小鎮內的精品店舖
-
 ### 📋 免稅購物條件（2025 年）
 
 - **資格**：非日本居民的外國人
 - **最低金額**：單店單日購物滿 5,000 日圓（未稅）
 - **稅率**：可節省 10% 消費稅
 - **攜帶**：免稅商品須隨身攜帶出境（不可分開寄送）
+
+### 信用卡資訊
+
+![alt text](image-1.png)
+
+#### [JCB 優惠](https://www.specialoffers.jcb/zh-tw/campaign/d/east-asia/japan/?c=retail_store)
+
+#### [聯邦吉鶴](https://activity.ubot.com.tw/2025JiHoCard-Japan/index.htm)
+
+- **7%**=日幣消費「2.5%」(無上限)+QUICPay「1.5%」(1000/月)+活動「3%」（活動期間上限600）
+  - 消費上限 NTD66,666/JPY322,303/月，NTD20,000/JPY96,691/季
+- 指定商店：**QUICPay（apple pay）**、7-ELEVEN、FamilyMart、LAWSON、永旺、三越、高島屋、BIC CAMERA、愛電王、多慶屋
+
+#### [玉山熊本熊](https://event.esunbank.com.tw/credit/kumamon-card/index.html)
+
+- **8.5%**=日本消費「2.5%」（無上限）+指定日本商店加碼「6%」（500/月）
+  - 消費上限 NTD8,333/JPY40,356/月
+- 指定商店：NIPPON RENT-A-CAR、BIC CAMERA、Yodobashi、松本清、唐吉軻德、大國藥妝、無印、niko and…、3 coins、DOUTOR Coffee、Fuglen、松屋、SUKIYA、勝烈亭、敘敘苑、牛角、shake shack、壽司郎、藏壽司
+- **5%(paypay by wallet)**= 3.5%（100/季）+1.5% 免稅
+  - 消費上限 NTD2,857/JPY13,813/季
+
+#### [富邦J卡](https://www.fubon.com/banking/Personal/credit_card/all_card/omiyage/omiyage.htm)
+
+- **10%**=日本消費「3%」（無上限）+ 交通卡加碼「7%」（需單筆滿2000, 200/季）
+  - 消費上限 NTD2,857/JPY13,813/季
+- **6%**=日本消費「3%」（無上限）+ 日韓加碼「3%」
+  - 消費上限 NTD33,333/JPY161,152/季
+
+![alt text](image.png)
+
+#### 使用策略
+
+- 機場免稅店：[JCB QRcode](#jcb-優惠)
+- 藥妝：[JCB QRcode](#jcb-優惠)
+- 西瓜儲值（by apple pay）
+  1. [玉山熊本熊](#玉山熊本熊)
+  2. [富邦J](#富邦j卡)
+  3. [聯邦吉鶴](#聯邦吉鶴)：免收 1.5% 國外交易服務費
+- BIC CAMERA
+  1. [玉山熊本熊](#玉山熊本熊)
+     - [**BIC CAMERA** 使用優惠券再享電器**7%**藥妝**5%**](https://event.esunbank.com.tw/credit/1120427bic/images/BicCamera-coupon.jpg)
+  2. [聯邦吉鶴](#聯邦吉鶴)
+- 多慶屋
+  1. [聯邦吉鶴](#聯邦吉鶴)
+     - [**多慶屋**消費滿5000提供條碼再享**10%免稅+12%折扣**](https://activity.ubot.com.tw/aws_act/2025/2025TAKEYA/index.htm)
+- 日本銀座樂天免稅店
+  1. [富邦J](#富邦j卡)
+     - 優惠碼 滿 10000 折 1000, 20000 折 2000
+- 完美行(每張卡都一樣)
+  1. [聯邦吉鶴](#聯邦吉鶴)，刷卡並使用以下代碼
+     - 滿15000：NJ3UBF
+     - 滿60000：KSN533
