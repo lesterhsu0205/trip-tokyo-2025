@@ -3,12 +3,12 @@
 ## 交通相關
 
 - [x] 台北桃園機場來回包車預訂
-- [ ] 設定 iPhone/Apple Watch Suica 卡
+- [x] 設定 iPhone/Apple Watch Suica 卡
 - ~~[ ] **預訂北陸新幹線車票**~~
   - ~~[ ] **D5 上野 → 輕井澤** - **09:30-11:00** - はくたか/あさま號（約70分鐘）~~
   - ~~[ ] **D8 輕井澤 → 上野** - **14:00-15:10** - はくたか/あさま號回程新幹線票券~~
 - [x] **確認京成電鐵 Access Express / Skyliner 時刻表** - **D1 14:00 出發** - 成田機場第1航廈→青砥→四木站
-- [ ] **D8 京成上野→成田機場 [Skyliner](https://skyliner.ec.keisei.co.jp/member/EAA01/GEAA01010.xhtml)
+- [ ] **D8 京成上野 → 成田機場 [Skyliner](https://skyliner.ec.keisei.co.jp/member/EAA01/GEAA01010.xhtml)
 - [x] **租車**
 - [x] 下載並研讀官方交通時程表資訊
   - [x] [乘換案內](https://world.jorudan.co.jp/mln/zh-tw/)
@@ -48,7 +48,7 @@
 
 ## 其他準備
 
-- [] 保險
+- [x] 保險
 - [x] esim
 - [x] 下載 Google Translate 離線日文包
 - [x] 下載東京地鐵 App
