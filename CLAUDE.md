@@ -54,9 +54,10 @@ code in this repository.
 
 - [ ] **3. 行程前購票及預定等整理**
   - 使用 Grep 搜尋 todo.md 相關項目（購票、預訂），避免完整讀取文件
-
 - [ ] **4. 行程中購物資訊及地點整理**
   - 使用 Grep 搜尋 remark.md 相關項目，避免完整讀取文件
+- [ ] **5. 行程中大眾交通資訊整理**
+  - 使用 Grep 搜尋 transportation.md 相關項目，避免完整讀取文件
 
 ### 行程內容檢查執行指引
 
@@ -192,8 +193,9 @@ trip/
     └── tokyo/
         ├── README.md            # 自動合併的完整行程
         ├── CLAUDE.md            # 東京輕井澤專案專屬指引
-        ├── todo.md              # 行前 TODO 清單
-        ├── remark.md            # 購物要點
+        ├── todo.md              # 行程前購票及預定等整理
+        ├── remark.md            # 行程中購物資訊及地點整理
+        ├── transportation.md    # 行程中大眾交通資訊整理
         ├── D1.md                # 各日詳細行程
         ├── D2.md
         ├── ...

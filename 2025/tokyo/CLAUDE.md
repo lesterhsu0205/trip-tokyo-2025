@@ -12,8 +12,9 @@
 .
 ├── README.md             # 主要行程檔案 (自動合併版本)
 ├── CLAUDE.md             # Claude Code 子專案指引
-├── todo.md               # 行前 TODO 清單
-├── remark.md             # 購物要點
+├── todo.md               # 行程前購票及預定等整理
+├── remark.md             # 行程中購物資訊及地點整理
+├── transportation.md     # 行程中大眾交通資訊整理
 ├── D1.md                 # 各日詳細行程
 ├── D2.md
 ├── ...
